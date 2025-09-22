@@ -1,3 +1,5 @@
+<div align="center">
+
 # ConViS-Bench: Estimating Video Similarity Through Semantic Concepts
 
 [Benedetta Liberatori](https://benedettaliberatori.github.io/), [Alessandro Conti](https://alessandroconti.me/), [Lorenzo Vaquero](), [Yiming Wang](https://www.yimingwang.it/), [Elisa Ricci](http://elisaricci.eu/), [Paolo Rota](https://paolorota.github.io/)<br>
