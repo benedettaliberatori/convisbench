@@ -1,0 +1,3052 @@
+[
+    {
+        "video1": "videos/3863_003.mp4",
+        "video2": "videos/883_000.mp4",
+        "similarity": 0.892333596944809
+    },
+    {
+        "video1": "videos/3333_004.mp4",
+        "video2": "videos/766_015.mp4",
+        "similarity": 0.8006729781627655
+    },
+    {
+        "video1": "videos/1291_001.mp4",
+        "video2": "videos/1627_003.mp4",
+        "similarity": 0.8577578663825989
+    },
+    {
+        "video1": "videos/2221_012.mp4",
+        "video2": "videos/25_007.mp4",
+        "similarity": 0.8352304697036743
+    },
+    {
+        "video1": "videos/2576_003.mp4",
+        "video2": "videos/3234_001.mp4",
+        "similarity": 0.9873675405979156
+    },
+    {
+        "video1": "videos/3640_014.mp4",
+        "video2": "videos/4492_002.mp4",
+        "similarity": 0.8173399865627289
+    },
+    {
+        "video1": "videos/108_005.mp4",
+        "video2": "videos/1361_001.mp4",
+        "similarity": 0.7786189317703247
+    },
+    {
+        "video1": "videos/3225_000.mp4",
+        "video2": "videos/4530_000.mp4",
+        "similarity": 0.9483946859836578
+    },
+    {
+        "video1": "videos/1403_019.mp4",
+        "video2": "videos/2535_019.mp4",
+        "similarity": 0.9168609082698822
+    },
+    {
+        "video1": "videos/6077_001.mp4",
+        "video2": "videos/6077_003.mp4",
+        "similarity": 0.926857203245163
+    },
+    {
+        "video1": "videos/6302_016.mp4",
+        "video2": "videos/2349_013.mp4",
+        "similarity": 0.7469015121459961
+    },
+    {
+        "video1": "videos/1159_001.mp4",
+        "video2": "videos/2197_002.mp4",
+        "similarity": 0.9709602892398834
+    },
+    {
+        "video1": "videos/2852_011.mp4",
+        "video2": "videos/3325_003.mp4",
+        "similarity": 0.8854181170463562
+    },
+    {
+        "video1": "videos/1525_004.mp4",
+        "video2": "videos/2110_006.mp4",
+        "similarity": 0.9646329283714294
+    },
+    {
+        "video1": "videos/2828_008.mp4",
+        "video2": "videos/3815_008.mp4",
+        "similarity": 0.9207175374031067
+    },
+    {
+        "video1": "videos/2105_004.mp4",
+        "video2": "videos/4083_005.mp4",
+        "similarity": 0.941196084022522
+    },
+    {
+        "video1": "videos/1492_002.mp4",
+        "video2": "videos/836_002.mp4",
+        "similarity": 0.9486349821090698
+    },
+    {
+        "video1": "videos/1645_002.mp4",
+        "video2": "videos/1645_003.mp4",
+        "similarity": 0.9454867839813232
+    },
+    {
+        "video1": "videos/836_000.mp4",
+        "video2": "videos/836_002.mp4",
+        "similarity": 0.8773176074028015
+    },
+    {
+        "video1": "videos/146_012.mp4",
+        "video2": "videos/2946_002.mp4",
+        "similarity": 0.8757888376712799
+    },
+    {
+        "video1": "videos/2486_001.mp4",
+        "video2": "videos/2636_003.mp4",
+        "similarity": 0.9413443207740784
+    },
+    {
+        "video1": "videos/2105_005.mp4",
+        "video2": "videos/4083_006.mp4",
+        "similarity": 0.8588734269142151
+    },
+    {
+        "video1": "videos/5567_005.mp4",
+        "video2": "videos/148_002.mp4",
+        "similarity": 0.7775329649448395
+    },
+    {
+        "video1": "videos/3333_004.mp4",
+        "video2": "videos/3506_013.mp4",
+        "similarity": 0.8510538041591644
+    },
+    {
+        "video1": "videos/3689_007.mp4",
+        "video2": "videos/4349_001.mp4",
+        "similarity": 0.8426395654678345
+    },
+    {
+        "video1": "videos/3041_005.mp4",
+        "video2": "videos/3234_001.mp4",
+        "similarity": 0.9688938856124878
+    },
+    {
+        "video1": "videos/1086_015.mp4",
+        "video2": "videos/1612_010.mp4",
+        "similarity": 0.8956497013568878
+    },
+    {
+        "video1": "videos/2231_008.mp4",
+        "video2": "videos/6512_006.mp4",
+        "similarity": 0.8938047289848328
+    },
+    {
+        "video1": "videos/3772_006.mp4",
+        "video2": "videos/6152_006.mp4",
+        "similarity": 0.8019829392433167
+    },
+    {
+        "video1": "videos/371_006.mp4",
+        "video2": "videos/4172_010.mp4",
+        "similarity": 0.878265917301178
+    },
+    {
+        "video1": "videos/2711_002.mp4",
+        "video2": "videos/3325_000.mp4",
+        "similarity": 0.9281042516231537
+    },
+    {
+        "video1": "videos/2852_008.mp4",
+        "video2": "videos/3325_003.mp4",
+        "similarity": 0.8852961361408234
+    },
+    {
+        "video1": "videos/2712_004.mp4",
+        "video2": "videos/4075_003.mp4",
+        "similarity": 0.8940757811069489
+    },
+    {
+        "video1": "videos/2639_001.mp4",
+        "video2": "videos/270_000.mp4",
+        "similarity": 0.8558663129806519
+    },
+    {
+        "video1": "videos/2139_003.mp4",
+        "video2": "videos/2876_000.mp4",
+        "similarity": 0.9115078151226044
+    },
+    {
+        "video1": "videos/2353_012.mp4",
+        "video2": "videos/572_006.mp4",
+        "similarity": 0.9379105567932129
+    },
+    {
+        "video1": "videos/4548_005.mp4",
+        "video2": "videos/1525_005.mp4",
+        "similarity": 0.8799053430557251
+    },
+    {
+        "video1": "videos/2223_001.mp4",
+        "video2": "videos/2223_002.mp4",
+        "similarity": 0.8423196375370026
+    },
+    {
+        "video1": "videos/1116_011.mp4",
+        "video2": "videos/5935_001.mp4",
+        "similarity": 0.8361417353153229
+    },
+    {
+        "video1": "videos/3368_004.mp4",
+        "video2": "videos/574_011.mp4",
+        "similarity": 0.6418923586606979
+    },
+    {
+        "video1": "videos/1734_007.mp4",
+        "video2": "videos/4510_005.mp4",
+        "similarity": 0.8277882635593414
+    },
+    {
+        "video1": "videos/1291_001.mp4",
+        "video2": "videos/2337_001.mp4",
+        "similarity": 0.9253167808055878
+    },
+    {
+        "video1": "videos/1746_003.mp4",
+        "video2": "videos/4087_002.mp4",
+        "similarity": 0.8905410468578339
+    },
+    {
+        "video1": "videos/3997_012.mp4",
+        "video2": "videos/4681_010.mp4",
+        "similarity": 0.9103277325630188
+    },
+    {
+        "video1": "videos/1553_010.mp4",
+        "video2": "videos/589_014.mp4",
+        "similarity": 0.896412193775177
+    },
+    {
+        "video1": "videos/1203_004.mp4",
+        "video2": "videos/409_029.mp4",
+        "similarity": 0.868547797203064
+    },
+    {
+        "video1": "videos/1627_003.mp4",
+        "video2": "videos/2546_003.mp4",
+        "similarity": 0.8688390851020813
+    },
+    {
+        "video1": "videos/6086_009.mp4",
+        "video2": "videos/2258_003.mp4",
+        "similarity": 0.9153764843940735
+    },
+    {
+        "video1": "videos/2410_002.mp4",
+        "video2": "videos/4530_004.mp4",
+        "similarity": 0.9359853863716125
+    },
+    {
+        "video1": "videos/1824_003.mp4",
+        "video2": "videos/2848_000.mp4",
+        "similarity": 0.9057539999485016
+    },
+    {
+        "video1": "videos/2888_000.mp4",
+        "video2": "videos/936_000.mp4",
+        "similarity": 0.9587167799472809
+    },
+    {
+        "video1": "videos/1268_018.mp4",
+        "video2": "videos/4492_002.mp4",
+        "similarity": 0.8738208413124084
+    },
+    {
+        "video1": "videos/2125_019.mp4",
+        "video2": "videos/2707_072.mp4",
+        "similarity": 0.7570673823356628
+    },
+    {
+        "video1": "videos/4210_011.mp4",
+        "video2": "videos/6512_006.mp4",
+        "similarity": 0.8541006445884705
+    },
+    {
+        "video1": "videos/2410_002.mp4",
+        "video2": "videos/2630_003.mp4",
+        "similarity": 0.9396470785140991
+    },
+    {
+        "video1": "videos/1525_005.mp4",
+        "video2": "videos/2110_001.mp4",
+        "similarity": 0.9450691640377045
+    },
+    {
+        "video1": "videos/3858_006.mp4",
+        "video2": "videos/2268_002.mp4",
+        "similarity": 0.9580502808094025
+    },
+    {
+        "video1": "videos/1607_004.mp4",
+        "video2": "videos/1607_009.mp4",
+        "similarity": 0.9915119409561157
+    },
+    {
+        "video1": "videos/45_007.mp4",
+        "video2": "videos/45_018.mp4",
+        "similarity": 0.9018553495407104
+    },
+    {
+        "video1": "videos/1869_000.mp4",
+        "video2": "videos/399_001.mp4",
+        "similarity": 0.8620385527610779
+    },
+    {
+        "video1": "videos/340_000.mp4",
+        "video2": "videos/619_000.mp4",
+        "similarity": 0.9298490583896637
+    },
+    {
+        "video1": "videos/2410_002.mp4",
+        "video2": "videos/2670_008.mp4",
+        "similarity": 0.9416655898094177
+    },
+    {
+        "video1": "videos/3689_002.mp4",
+        "video2": "videos/495_001.mp4",
+        "similarity": 0.9192376434803009
+    },
+    {
+        "video1": "videos/1029_006.mp4",
+        "video2": "videos/4485_008.mp4",
+        "similarity": 0.8491845726966858
+    },
+    {
+        "video1": "videos/2110_001.mp4",
+        "video2": "videos/2110_006.mp4",
+        "similarity": 0.9775947630405426
+    },
+    {
+        "video1": "videos/2852_010.mp4",
+        "video2": "videos/46_002.mp4",
+        "similarity": 0.7187961786985397
+    },
+    {
+        "video1": "videos/1016_004.mp4",
+        "video2": "videos/790_007.mp4",
+        "similarity": 0.8010770976543427
+    },
+    {
+        "video1": "videos/3104_007.mp4",
+        "video2": "videos/176_002.mp4",
+        "similarity": 0.9741970300674438
+    },
+    {
+        "video1": "videos/2164_017.mp4",
+        "video2": "videos/5553_005.mp4",
+        "similarity": 0.76633220911026
+    },
+    {
+        "video1": "videos/1667_003.mp4",
+        "video2": "videos/2731_001.mp4",
+        "similarity": 0.910781979560852
+    },
+    {
+        "video1": "videos/1878_002.mp4",
+        "video2": "videos/2544_001.mp4",
+        "similarity": 0.9720664620399475
+    },
+    {
+        "video1": "videos/1071_003.mp4",
+        "video2": "videos/572_006.mp4",
+        "similarity": 0.9231327176094055
+    },
+    {
+        "video1": "videos/1920_003.mp4",
+        "video2": "videos/2460_000.mp4",
+        "similarity": 0.9434953331947327
+    },
+    {
+        "video1": "videos/1449_002.mp4",
+        "video2": "videos/2954_001.mp4",
+        "similarity": 0.9344416260719299
+    },
+    {
+        "video1": "videos/205_006.mp4",
+        "video2": "videos/508_003.mp4",
+        "similarity": 0.7980174124240875
+    },
+    {
+        "video1": "videos/1237_002.mp4",
+        "video2": "videos/1692_001.mp4",
+        "similarity": 0.8893911242485046
+    },
+    {
+        "video1": "videos/1607_004.mp4",
+        "video2": "videos/591_001.mp4",
+        "similarity": 0.8368101716041565
+    },
+    {
+        "video1": "videos/1514_008.mp4",
+        "video2": "videos/74_010.mp4",
+        "similarity": 0.7626784443855286
+    },
+    {
+        "video1": "videos/6195_006.mp4",
+        "video2": "videos/862_023.mp4",
+        "similarity": 0.8081040978431702
+    },
+    {
+        "video1": "videos/1289_007.mp4",
+        "video2": "videos/3578_003.mp4",
+        "similarity": 0.8500155806541443
+    },
+    {
+        "video1": "videos/139_002.mp4",
+        "video2": "videos/1606_003.mp4",
+        "similarity": 0.8910268247127533
+    },
+    {
+        "video1": "videos/2065_017.mp4",
+        "video2": "videos/2580_009.mp4",
+        "similarity": 0.819328248500824
+    },
+    {
+        "video1": "videos/2200_000.mp4",
+        "video2": "videos/351_000.mp4",
+        "similarity": 0.9651510715484619
+    },
+    {
+        "video1": "videos/4700_002.mp4",
+        "video2": "videos/1229_003.mp4",
+        "similarity": 0.8629142940044403
+    },
+    {
+        "video1": "videos/1206_000.mp4",
+        "video2": "videos/2486_001.mp4",
+        "similarity": 0.9744263589382172
+    },
+    {
+        "video1": "videos/3215_011.mp4",
+        "video2": "videos/1677_018.mp4",
+        "similarity": 0.8980966806411743
+    },
+    {
+        "video1": "videos/3520_015.mp4",
+        "video2": "videos/793_010.mp4",
+        "similarity": 0.7604785561561584
+    },
+    {
+        "video1": "videos/2946_017.mp4",
+        "video2": "videos/1018_004.mp4",
+        "similarity": 0.8725078403949738
+    },
+    {
+        "video1": "videos/4679_015.mp4",
+        "video2": "videos/2349_015.mp4",
+        "similarity": 0.6885088086128235
+    },
+    {
+        "video1": "videos/1492_000.mp4",
+        "video2": "videos/836_000.mp4",
+        "similarity": 0.8923625648021698
+    },
+    {
+        "video1": "videos/1754_005.mp4",
+        "video2": "videos/4987_001.mp4",
+        "similarity": 0.9305100440979004
+    },
+    {
+        "video1": "videos/1645_000.mp4",
+        "video2": "videos/1645_002.mp4",
+        "similarity": 0.9207590520381927
+    },
+    {
+        "video1": "videos/1645_003.mp4",
+        "video2": "videos/4799_008.mp4",
+        "similarity": 0.7057789862155914
+    },
+    {
+        "video1": "videos/2164_013.mp4",
+        "video2": "videos/4753_016.mp4",
+        "similarity": 0.8239311575889587
+    },
+    {
+        "video1": "videos/1303_002.mp4",
+        "video2": "videos/3130_000.mp4",
+        "similarity": 0.7969886064529419
+    },
+    {
+        "video1": "videos/3038_003.mp4",
+        "video2": "videos/726_004.mp4",
+        "similarity": 0.7938194870948792
+    },
+    {
+        "video1": "videos/1086_014.mp4",
+        "video2": "videos/654_005.mp4",
+        "similarity": 0.9502934515476227
+    },
+    {
+        "video1": "videos/1897_000.mp4",
+        "video2": "videos/2335_002.mp4",
+        "similarity": 0.8284198939800262
+    },
+    {
+        "video1": "videos/3671_003.mp4",
+        "video2": "videos/1571_007.mp4",
+        "similarity": 0.9150730967521667
+    },
+    {
+        "video1": "videos/2283_020.mp4",
+        "video2": "videos/3460_014.mp4",
+        "similarity": 0.9682934880256653
+    },
+    {
+        "video1": "videos/2825_010.mp4",
+        "video2": "videos/2630_003.mp4",
+        "similarity": 0.7963989078998566
+    },
+    {
+        "video1": "videos/2198_011.mp4",
+        "video2": "videos/2353_012.mp4",
+        "similarity": 0.9540748000144958
+    },
+    {
+        "video1": "videos/1558_004.mp4",
+        "video2": "videos/2978_008.mp4",
+        "similarity": 0.946453720331192
+    },
+    {
+        "video1": "videos/1553_010.mp4",
+        "video2": "videos/4753_014.mp4",
+        "similarity": 0.9184615015983582
+    },
+    {
+        "video1": "videos/473_006.mp4",
+        "video2": "videos/2258_003.mp4",
+        "similarity": 0.8954958319664001
+    },
+    {
+        "video1": "videos/4776_006.mp4",
+        "video2": "videos/3243_009.mp4",
+        "similarity": 0.8655714392662048
+    },
+    {
+        "video1": "videos/2248_003.mp4",
+        "video2": "videos/722_003.mp4",
+        "similarity": 0.6885792911052704
+    },
+    {
+        "video1": "videos/2048_002.mp4",
+        "video2": "videos/885_001.mp4",
+        "similarity": 0.8452268838882446
+    },
+    {
+        "video1": "videos/3429_003.mp4",
+        "video2": "videos/4347_005.mp4",
+        "similarity": 0.8068839907646179
+    },
+    {
+        "video1": "videos/1449_002.mp4",
+        "video2": "videos/2353_003.mp4",
+        "similarity": 0.9613343775272369
+    },
+    {
+        "video1": "videos/1959_005.mp4",
+        "video2": "videos/2539_000.mp4",
+        "similarity": 0.866592139005661
+    },
+    {
+        "video1": "videos/1031_010.mp4",
+        "video2": "videos/26_010.mp4",
+        "similarity": 0.7568427324295044
+    },
+    {
+        "video1": "videos/218_001.mp4",
+        "video2": "videos/2248_003.mp4",
+        "similarity": 0.8925652503967285
+    },
+    {
+        "video1": "videos/1746_003.mp4",
+        "video2": "videos/422_002.mp4",
+        "similarity": 0.8974112868309021
+    },
+    {
+        "video1": "videos/108_005.mp4",
+        "video2": "videos/2448_001.mp4",
+        "similarity": 0.9353916347026825
+    },
+    {
+        "video1": "videos/1607_004.mp4",
+        "video2": "videos/623_001.mp4",
+        "similarity": 0.8219944834709167
+    },
+    {
+        "video1": "videos/3941_003.mp4",
+        "video2": "videos/957_007.mp4",
+        "similarity": 0.8506657779216766
+    },
+    {
+        "video1": "videos/1514_008.mp4",
+        "video2": "videos/2852_011.mp4",
+        "similarity": 0.8559088110923767
+    },
+    {
+        "video1": "videos/4679_015.mp4",
+        "video2": "videos/176_002.mp4",
+        "similarity": 0.8781095147132874
+    },
+    {
+        "video1": "videos/883_000.mp4",
+        "video2": "videos/883_008.mp4",
+        "similarity": 0.9278250634670258
+    },
+    {
+        "video1": "videos/1088_007.mp4",
+        "video2": "videos/1754_005.mp4",
+        "similarity": 0.9491787850856781
+    },
+    {
+        "video1": "videos/2914_003.mp4",
+        "video2": "videos/2978_008.mp4",
+        "similarity": 0.9448064863681793
+    },
+    {
+        "video1": "videos/1304_001.mp4",
+        "video2": "videos/2164_004.mp4",
+        "similarity": 0.7930286228656769
+    },
+    {
+        "video1": "videos/1525_004.mp4",
+        "video2": "videos/1525_005.mp4",
+        "similarity": 0.9912721812725067
+    },
+    {
+        "video1": "videos/3637_006.mp4",
+        "video2": "videos/3815_008.mp4",
+        "similarity": 0.8564780652523041
+    },
+    {
+        "video1": "videos/6079_009.mp4",
+        "video2": "videos/1554_012.mp4",
+        "similarity": 0.9527086019515991
+    },
+    {
+        "video1": "videos/2660_016.mp4",
+        "video2": "videos/3520_016.mp4",
+        "similarity": 0.8043164610862732
+    },
+    {
+        "video1": "videos/589_014.mp4",
+        "video2": "videos/589_016.mp4",
+        "similarity": 0.9494960606098175
+    },
+    {
+        "video1": "videos/6822_010.mp4",
+        "video2": "videos/4530_004.mp4",
+        "similarity": 0.9056214094161987
+    },
+    {
+        "video1": "videos/3023_004.mp4",
+        "video2": "videos/3210_010.mp4",
+        "similarity": 0.6877417862415314
+    },
+    {
+        "video1": "videos/2707_027.mp4",
+        "video2": "videos/1018_004.mp4",
+        "similarity": 0.8890851140022278
+    },
+    {
+        "video1": "videos/1607_009.mp4",
+        "video2": "videos/2660_016.mp4",
+        "similarity": 0.9441833198070526
+    },
+    {
+        "video1": "videos/4858_009.mp4",
+        "video2": "videos/2065_017.mp4",
+        "similarity": 0.8840249180793762
+    },
+    {
+        "video1": "videos/1754_007.mp4",
+        "video2": "videos/2385_006.mp4",
+        "similarity": 0.9252413511276245
+    },
+    {
+        "video1": "videos/1558_004.mp4",
+        "video2": "videos/2300_009.mp4",
+        "similarity": 0.8897349238395691
+    },
+    {
+        "video1": "videos/2198_011.mp4",
+        "video2": "videos/572_006.mp4",
+        "similarity": 0.9356362223625183
+    },
+    {
+        "video1": "videos/1029_002.mp4",
+        "video2": "videos/1029_006.mp4",
+        "similarity": 0.9269202053546906
+    },
+    {
+        "video1": "videos/2231_008.mp4",
+        "video2": "videos/2737_020.mp4",
+        "similarity": 0.6913864016532898
+    },
+    {
+        "video1": "videos/1174_000.mp4",
+        "video2": "videos/1667_003.mp4",
+        "similarity": 0.9282407164573669
+    },
+    {
+        "video1": "videos/2393_007.mp4",
+        "video2": "videos/2268_002.mp4",
+        "similarity": 0.8491715788841248
+    },
+    {
+        "video1": "videos/573_026.mp4",
+        "video2": "videos/619_000.mp4",
+        "similarity": 0.9391346275806427
+    },
+    {
+        "video1": "videos/420_007.mp4",
+        "video2": "videos/4762_011.mp4",
+        "similarity": 0.8641742169857025
+    },
+    {
+        "video1": "videos/1303_002.mp4",
+        "video2": "videos/66_000.mp4",
+        "similarity": 0.8530311286449432
+    },
+    {
+        "video1": "videos/5854_000.mp4",
+        "video2": "videos/4261_005.mp4",
+        "similarity": 0.8630102872848511
+    },
+    {
+        "video1": "videos/3234_000.mp4",
+        "video2": "videos/375_000.mp4",
+        "similarity": 0.9573841094970703
+    },
+    {
+        "video1": "videos/4278_005.mp4",
+        "video2": "videos/1855_000.mp4",
+        "similarity": 0.9571711421012878
+    },
+    {
+        "video1": "videos/3021_000.mp4",
+        "video2": "videos/619_001.mp4",
+        "similarity": 0.951650083065033
+    },
+    {
+        "video1": "videos/1645_000.mp4",
+        "video2": "videos/3491_003.mp4",
+        "similarity": 0.875523567199707
+    },
+    {
+        "video1": "videos/1125_003.mp4",
+        "video2": "videos/2197_002.mp4",
+        "similarity": 0.9683835506439209
+    },
+    {
+        "video1": "videos/3357_005.mp4",
+        "video2": "videos/1855_000.mp4",
+        "similarity": 0.9525243639945984
+    },
+    {
+        "video1": "videos/1029_006.mp4",
+        "video2": "videos/1715_013.mp4",
+        "similarity": 0.9000202119350433
+    },
+    {
+        "video1": "videos/3705_012.mp4",
+        "video2": "videos/5918_002.mp4",
+        "similarity": 0.7425534874200821
+    },
+    {
+        "video1": "videos/3417_009.mp4",
+        "video2": "videos/4530_004.mp4",
+        "similarity": 0.9292001724243164
+    },
+    {
+        "video1": "videos/1920_003.mp4",
+        "video2": "videos/455_003.mp4",
+        "similarity": 0.9918560683727264
+    },
+    {
+        "video1": "videos/3215_007.mp4",
+        "video2": "videos/3215_011.mp4",
+        "similarity": 0.8389588594436646
+    },
+    {
+        "video1": "videos/1612_007.mp4",
+        "video2": "videos/2946_017.mp4",
+        "similarity": 0.9019328057765961
+    },
+    {
+        "video1": "videos/74_007.mp4",
+        "video2": "videos/74_010.mp4",
+        "similarity": 0.8566039204597473
+    },
+    {
+        "video1": "videos/1291_001.mp4",
+        "video2": "videos/2546_003.mp4",
+        "similarity": 0.8871831297874451
+    },
+    {
+        "video1": "videos/1824_001.mp4",
+        "video2": "videos/573_026.mp4",
+        "similarity": 0.8826631903648376
+    },
+    {
+        "video1": "videos/591_001.mp4",
+        "video2": "videos/623_001.mp4",
+        "similarity": 0.8916721642017365
+    },
+    {
+        "video1": "videos/3460_014.mp4",
+        "video2": "videos/5429_013.mp4",
+        "similarity": 0.9769054353237152
+    },
+    {
+        "video1": "videos/266_012.mp4",
+        "video2": "videos/409_019.mp4",
+        "similarity": 0.9301862418651581
+    },
+    {
+        "video1": "videos/1571_007.mp4",
+        "video2": "videos/3740_005.mp4",
+        "similarity": 0.8238525092601776
+    },
+    {
+        "video1": "videos/1754_002.mp4",
+        "video2": "videos/4987_001.mp4",
+        "similarity": 0.8992460370063782
+    },
+    {
+        "video1": "videos/508_004.mp4",
+        "video2": "videos/437_012.mp4",
+        "similarity": 0.8687612414360046
+    },
+    {
+        "video1": "videos/3333_004.mp4",
+        "video2": "videos/4828_003.mp4",
+        "similarity": 0.7809149324893951
+    },
+    {
+        "video1": "videos/2667_001.mp4",
+        "video2": "videos/3022_004.mp4",
+        "similarity": 0.8415840566158295
+    },
+    {
+        "video1": "videos/24_002.mp4",
+        "video2": "videos/508_004.mp4",
+        "similarity": 0.8480684161186218
+    },
+    {
+        "video1": "videos/3506_013.mp4",
+        "video2": "videos/766_015.mp4",
+        "similarity": 0.8224576413631439
+    },
+    {
+        "video1": "videos/2004_000.mp4",
+        "video2": "videos/2888_000.mp4",
+        "similarity": 0.9686610102653503
+    },
+    {
+        "video1": "videos/3520_013.mp4",
+        "video2": "videos/4652_009.mp4",
+        "similarity": 0.7880425751209259
+    },
+    {
+        "video1": "videos/3640_014.mp4",
+        "video2": "videos/679_006.mp4",
+        "similarity": 0.8492682576179504
+    },
+    {
+        "video1": "videos/2164_017.mp4",
+        "video2": "videos/25_007.mp4",
+        "similarity": 0.9114275872707367
+    },
+    {
+        "video1": "videos/3671_022.mp4",
+        "video2": "videos/1571_007.mp4",
+        "similarity": 0.7259122431278229
+    },
+    {
+        "video1": "videos/4335_006.mp4",
+        "video2": "videos/4530_006.mp4",
+        "similarity": 0.7191939651966095
+    },
+    {
+        "video1": "videos/3215_025.mp4",
+        "video2": "videos/1434_008.mp4",
+        "similarity": 0.9646568298339844
+    },
+    {
+        "video1": "videos/6191_010.mp4",
+        "video2": "videos/1268_018.mp4",
+        "similarity": 0.8902763724327087
+    },
+    {
+        "video1": "videos/4652_009.mp4",
+        "video2": "videos/2410_005.mp4",
+        "similarity": 0.8517217934131622
+    },
+    {
+        "video1": "videos/2002_006.mp4",
+        "video2": "videos/5135_002.mp4",
+        "similarity": 0.8117870092391968
+    },
+    {
+        "video1": "videos/3671_003.mp4",
+        "video2": "videos/4241_006.mp4",
+        "similarity": 0.8832593262195587
+    },
+    {
+        "video1": "videos/3637_006.mp4",
+        "video2": "videos/3941_003.mp4",
+        "similarity": 0.9088940322399139
+    },
+    {
+        "video1": "videos/1005_003.mp4",
+        "video2": "videos/1353_002.mp4",
+        "similarity": 0.9390829205513
+    },
+    {
+        "video1": "videos/2460_000.mp4",
+        "video2": "videos/455_003.mp4",
+        "similarity": 0.9592177867889404
+    },
+    {
+        "video1": "videos/1206_000.mp4",
+        "video2": "videos/2353_003.mp4",
+        "similarity": 0.953676164150238
+    },
+    {
+        "video1": "videos/2085_002.mp4",
+        "video2": "videos/2722_000.mp4",
+        "similarity": 0.8862418830394745
+    },
+    {
+        "video1": "videos/2002_006.mp4",
+        "video2": "videos/4241_006.mp4",
+        "similarity": 0.9294398427009583
+    },
+    {
+        "video1": "videos/2326_006.mp4",
+        "video2": "videos/334_003.mp4",
+        "similarity": 0.797912061214447
+    },
+    {
+        "video1": "videos/2353_003.mp4",
+        "video2": "videos/2460_000.mp4",
+        "similarity": 0.8736435770988464
+    },
+    {
+        "video1": "videos/2048_002.mp4",
+        "video2": "videos/2268_002.mp4",
+        "similarity": 0.8677766621112823
+    },
+    {
+        "video1": "videos/3578_003.mp4",
+        "video2": "videos/3689_007.mp4",
+        "similarity": 0.8894349634647369
+    },
+    {
+        "video1": "videos/1086_014.mp4",
+        "video2": "videos/1612_007.mp4",
+        "similarity": 0.9258585572242737
+    },
+    {
+        "video1": "videos/1029_006.mp4",
+        "video2": "videos/1086_015.mp4",
+        "similarity": 0.9097385704517365
+    },
+    {
+        "video1": "videos/3041_005.mp4",
+        "video2": "videos/3233_001.mp4",
+        "similarity": 0.8879870176315308
+    },
+    {
+        "video1": "videos/2460_000.mp4",
+        "video2": "videos/3189_001.mp4",
+        "similarity": 0.8980387151241302
+    },
+    {
+        "video1": "videos/1570_022.mp4",
+        "video2": "videos/2010_007.mp4",
+        "similarity": 0.712959811091423
+    },
+    {
+        "video1": "videos/31_000.mp4",
+        "video2": "videos/850_000.mp4",
+        "similarity": 0.985339879989624
+    },
+    {
+        "video1": "videos/314_002.mp4",
+        "video2": "videos/679_013.mp4",
+        "similarity": 0.7680904269218445
+    },
+    {
+        "video1": "videos/1938_001.mp4",
+        "video2": "videos/900_000.mp4",
+        "similarity": 0.8517078459262848
+    },
+    {
+        "video1": "videos/1557_003.mp4",
+        "video2": "videos/4753_039.mp4",
+        "similarity": 0.8516786694526672
+    },
+    {
+        "video1": "videos/1705_000.mp4",
+        "video2": "videos/2017_000.mp4",
+        "similarity": 0.8719732761383057
+    },
+    {
+        "video1": "videos/3578_003.mp4",
+        "video2": "videos/4349_001.mp4",
+        "similarity": 0.9508436918258667
+    },
+    {
+        "video1": "videos/3460_014.mp4",
+        "video2": "videos/3243_009.mp4",
+        "similarity": 0.8561694920063019
+    },
+    {
+        "video1": "videos/3021_000.mp4",
+        "video2": "videos/619_000.mp4",
+        "similarity": 0.9441853761672974
+    },
+    {
+        "video1": "videos/2257_007.mp4",
+        "video2": "videos/3215_007.mp4",
+        "similarity": 0.8602367341518402
+    },
+    {
+        "video1": "videos/1553_010.mp4",
+        "video2": "videos/4753_016.mp4",
+        "similarity": 0.9383810460567474
+    },
+    {
+        "video1": "videos/4050_010.mp4",
+        "video2": "videos/4548_005.mp4",
+        "similarity": 0.7819328308105469
+    },
+    {
+        "video1": "videos/2328_006.mp4",
+        "video2": "videos/4753_050.mp4",
+        "similarity": 0.8376809358596802
+    },
+    {
+        "video1": "videos/270_000.mp4",
+        "video2": "videos/417_002.mp4",
+        "similarity": 0.7543133199214935
+    },
+    {
+        "video1": "videos/3858_006.mp4",
+        "video2": "videos/5951_015.mp4",
+        "similarity": 0.7286085933446884
+    },
+    {
+        "video1": "videos/1029_006.mp4",
+        "video2": "videos/2707_075.mp4",
+        "similarity": 0.7890012860298157
+    },
+    {
+        "video1": "videos/2737_001.mp4",
+        "video2": "videos/690_004.mp4",
+        "similarity": 0.8601160645484924
+    },
+    {
+        "video1": "videos/5194_001.mp4",
+        "video2": "videos/121_003.mp4",
+        "similarity": 0.8866952657699585
+    },
+    {
+        "video1": "videos/41_011.mp4",
+        "video2": "videos/45_010.mp4",
+        "similarity": 0.863290548324585
+    },
+    {
+        "video1": "videos/2257_013.mp4",
+        "video2": "videos/1421_010.mp4",
+        "similarity": 0.7766079604625702
+    },
+    {
+        "video1": "videos/3210_009.mp4",
+        "video2": "videos/3210_010.mp4",
+        "similarity": 0.9928381145000458
+    },
+    {
+        "video1": "videos/1959_005.mp4",
+        "video2": "videos/2946_002.mp4",
+        "similarity": 0.8490410447120667
+    },
+    {
+        "video1": "videos/6700_001.mp4",
+        "video2": "videos/6700_003.mp4",
+        "similarity": 0.8354043364524841
+    },
+    {
+        "video1": "videos/4210_011.mp4",
+        "video2": "videos/1606_003.mp4",
+        "similarity": 0.9199379980564117
+    },
+    {
+        "video1": "videos/1754_002.mp4",
+        "video2": "videos/6332_004.mp4",
+        "similarity": 0.8684331476688385
+    },
+    {
+        "video1": "videos/2256_000.mp4",
+        "video2": "videos/6700_003.mp4",
+        "similarity": 0.7760964334011078
+    },
+    {
+        "video1": "videos/2350_007.mp4",
+        "video2": "videos/2773_017.mp4",
+        "similarity": 0.9862057864665985
+    },
+    {
+        "video1": "videos/1607_004.mp4",
+        "video2": "videos/3520_014.mp4",
+        "similarity": 0.770709216594696
+    },
+    {
+        "video1": "videos/1558_004.mp4",
+        "video2": "videos/2914_003.mp4",
+        "similarity": 0.920089840888977
+    },
+    {
+        "video1": "videos/3520_013.mp4",
+        "video2": "videos/3520_014.mp4",
+        "similarity": 0.9903395771980286
+    },
+    {
+        "video1": "videos/807_009.mp4",
+        "video2": "videos/3755_012.mp4",
+        "similarity": 0.9199106693267822
+    },
+    {
+        "video1": "videos/4530_004.mp4",
+        "video2": "videos/780_004.mp4",
+        "similarity": 0.9218088984489441
+    },
+    {
+        "video1": "videos/1016_004.mp4",
+        "video2": "videos/24_002.mp4",
+        "similarity": 0.7703891098499298
+    },
+    {
+        "video1": "videos/2529_005.mp4",
+        "video2": "videos/851_002.mp4",
+        "similarity": 0.72158083319664
+    },
+    {
+        "video1": "videos/2082_008.mp4",
+        "video2": "videos/371_006.mp4",
+        "similarity": 0.8450084030628204
+    },
+    {
+        "video1": "videos/1071_014.mp4",
+        "video2": "videos/4278_005.mp4",
+        "similarity": 0.8741889297962189
+    },
+    {
+        "video1": "videos/2257_007.mp4",
+        "video2": "videos/2257_013.mp4",
+        "similarity": 0.8727123141288757
+    },
+    {
+        "video1": "videos/1612_007.mp4",
+        "video2": "videos/1612_010.mp4",
+        "similarity": 0.9762267172336578
+    },
+    {
+        "video1": "videos/2197_002.mp4",
+        "video2": "videos/3335_001.mp4",
+        "similarity": 0.8451647162437439
+    },
+    {
+        "video1": "videos/4858_009.mp4",
+        "video2": "videos/2580_009.mp4",
+        "similarity": 0.8667056262493134
+    },
+    {
+        "video1": "videos/2410_002.mp4",
+        "video2": "videos/4070_002.mp4",
+        "similarity": 0.8708761632442474
+    },
+    {
+        "video1": "videos/1884_000.mp4",
+        "video2": "videos/40_000.mp4",
+        "similarity": 0.8601028323173523
+    },
+    {
+        "video1": "videos/3215_025.mp4",
+        "video2": "videos/3215_031.mp4",
+        "similarity": 0.9462879002094269
+    },
+    {
+        "video1": "videos/1928_019.mp4",
+        "video2": "videos/4622_002.mp4",
+        "similarity": 0.8871184587478638
+    },
+    {
+        "video1": "videos/1063_007.mp4",
+        "video2": "videos/1754_007.mp4",
+        "similarity": 0.8655552268028259
+    },
+    {
+        "video1": "videos/4241_006.mp4",
+        "video2": "videos/2506_003.mp4",
+        "similarity": 0.9322679340839386
+    },
+    {
+        "video1": "videos/1050_002.mp4",
+        "video2": "videos/19_001.mp4",
+        "similarity": 0.9035996198654175
+    },
+    {
+        "video1": "videos/2350_007.mp4",
+        "video2": "videos/495_001.mp4",
+        "similarity": 0.8982164263725281
+    },
+    {
+        "video1": "videos/2082_008.mp4",
+        "video2": "videos/371_003.mp4",
+        "similarity": 0.8692706227302551
+    },
+    {
+        "video1": "videos/4987_001.mp4",
+        "video2": "videos/6332_004.mp4",
+        "similarity": 0.9053919613361359
+    },
+    {
+        "video1": "videos/3237_002.mp4",
+        "video2": "videos/3471_013.mp4",
+        "similarity": 0.9103038311004639
+    },
+    {
+        "video1": "videos/5951_015.mp4",
+        "video2": "videos/4274_002.mp4",
+        "similarity": 0.8068562746047974
+    },
+    {
+        "video1": "videos/3215_031.mp4",
+        "video2": "videos/1434_008.mp4",
+        "similarity": 0.9231516122817993
+    },
+    {
+        "video1": "videos/6700_000.mp4",
+        "video2": "videos/6700_001.mp4",
+        "similarity": 0.9973155856132507
+    },
+    {
+        "video1": "videos/1005_001.mp4",
+        "video2": "videos/128_002.mp4",
+        "similarity": 0.9223091900348663
+    },
+    {
+        "video1": "videos/2335_002.mp4",
+        "video2": "videos/4278_005.mp4",
+        "similarity": 0.8261257112026215
+    },
+    {
+        "video1": "videos/1268_012.mp4",
+        "video2": "videos/2131_006.mp4",
+        "similarity": 0.8471319675445557
+    },
+    {
+        "video1": "videos/2777_003.mp4",
+        "video2": "videos/3130_000.mp4",
+        "similarity": 0.8849344849586487
+    },
+    {
+        "video1": "videos/2894_010.mp4",
+        "video2": "videos/3210_009.mp4",
+        "similarity": 0.8021364808082581
+    },
+    {
+        "video1": "videos/3808_006.mp4",
+        "video2": "videos/1202_011.mp4",
+        "similarity": 0.8144064545631409
+    },
+    {
+        "video1": "videos/1206_000.mp4",
+        "video2": "videos/1449_002.mp4",
+        "similarity": 0.9757569432258606
+    },
+    {
+        "video1": "videos/3023_004.mp4",
+        "video2": "videos/447_007.mp4",
+        "similarity": 0.9273688495159149
+    },
+    {
+        "video1": "videos/1438_018.mp4",
+        "video2": "videos/4753_039.mp4",
+        "similarity": 0.7819360494613647
+    },
+    {
+        "video1": "videos/2630_003.mp4",
+        "video2": "videos/45_018.mp4",
+        "similarity": 0.924673467874527
+    },
+    {
+        "video1": "videos/1415_002.mp4",
+        "video2": "videos/1887_001.mp4",
+        "similarity": 0.8754213154315948
+    },
+    {
+        "video1": "videos/137_003.mp4",
+        "video2": "videos/4210_006.mp4",
+        "similarity": 0.9084743559360504
+    },
+    {
+        "video1": "videos/137_004.mp4",
+        "video2": "videos/1985_001.mp4",
+        "similarity": 0.7937508225440979
+    },
+    {
+        "video1": "videos/2468_003.mp4",
+        "video2": "videos/725_001.mp4",
+        "similarity": 0.8797732293605804
+    },
+    {
+        "video1": "videos/2605_006.mp4",
+        "video2": "videos/3740_005.mp4",
+        "similarity": 0.888501763343811
+    },
+    {
+        "video1": "videos/1433_000.mp4",
+        "video2": "videos/2410_005.mp4",
+        "similarity": 0.8759382963180542
+    },
+    {
+        "video1": "videos/137_003.mp4",
+        "video2": "videos/437_012.mp4",
+        "similarity": 0.8821178078651428
+    },
+    {
+        "video1": "videos/2393_007.mp4",
+        "video2": "videos/508_003.mp4",
+        "similarity": 0.796043872833252
+    },
+    {
+        "video1": "videos/1754_007.mp4",
+        "video2": "videos/1754_008.mp4",
+        "similarity": 0.9622375667095184
+    },
+    {
+        "video1": "videos/2008_006.mp4",
+        "video2": "videos/4517_006.mp4",
+        "similarity": 0.74300317466259
+    },
+    {
+        "video1": "videos/2448_001.mp4",
+        "video2": "videos/2844_002.mp4",
+        "similarity": 0.7809675335884094
+    },
+    {
+        "video1": "videos/3215_011.mp4",
+        "video2": "videos/589_009.mp4",
+        "similarity": 0.9192846417427063
+    },
+    {
+        "video1": "videos/2002_011.mp4",
+        "video2": "videos/437_014.mp4",
+        "similarity": 0.8911885321140289
+    },
+    {
+        "video1": "videos/4828_003.mp4",
+        "video2": "videos/766_015.mp4",
+        "similarity": 0.7437448501586914
+    },
+    {
+        "video1": "videos/1071_003.mp4",
+        "video2": "videos/2353_012.mp4",
+        "similarity": 0.9241334199905396
+    },
+    {
+        "video1": "videos/371_003.mp4",
+        "video2": "videos/371_006.mp4",
+        "similarity": 0.9639304578304291
+    },
+    {
+        "video1": "videos/2667_001.mp4",
+        "video2": "videos/268_000.mp4",
+        "similarity": 0.8985787630081177
+    },
+    {
+        "video1": "videos/4739_000.mp4",
+        "video2": "videos/1433_000.mp4",
+        "similarity": 0.8880952000617981
+    },
+    {
+        "video1": "videos/1063_007.mp4",
+        "video2": "videos/4987_001.mp4",
+        "similarity": 0.8412655889987946
+    },
+    {
+        "video1": "videos/1622_020.mp4",
+        "video2": "videos/3815_008.mp4",
+        "similarity": 0.8583084046840668
+    },
+    {
+        "video1": "videos/205_006.mp4",
+        "video2": "videos/4679_004.mp4",
+        "similarity": 0.8041432201862335
+    },
+    {
+        "video1": "videos/5429_002.mp4",
+        "video2": "videos/2605_006.mp4",
+        "similarity": 0.8983286023139954
+    },
+    {
+        "video1": "videos/2004_000.mp4",
+        "video2": "videos/936_000.mp4",
+        "similarity": 0.9355770349502563
+    },
+    {
+        "video1": "videos/266_012.mp4",
+        "video2": "videos/4530_006.mp4",
+        "similarity": 0.8929608166217804
+    },
+    {
+        "video1": "videos/417_002.mp4",
+        "video2": "videos/429_002.mp4",
+        "similarity": 0.9185011386871338
+    },
+    {
+        "video1": "videos/3215_011.mp4",
+        "video2": "videos/152_002.mp4",
+        "similarity": 0.8359459042549133
+    },
+    {
+        "video1": "videos/1088_007.mp4",
+        "video2": "videos/2385_006.mp4",
+        "similarity": 0.9495212435722351
+    },
+    {
+        "video1": "videos/2572_000.mp4",
+        "video2": "videos/885_001.mp4",
+        "similarity": 0.8691940307617188
+    },
+    {
+        "video1": "videos/1607_009.mp4",
+        "video2": "videos/3520_015.mp4",
+        "similarity": 0.7796257138252258
+    },
+    {
+        "video1": "videos/1125_003.mp4",
+        "video2": "videos/1159_001.mp4",
+        "similarity": 0.9662116765975952
+    },
+    {
+        "video1": "videos/2257_007.mp4",
+        "video2": "videos/1677_018.mp4",
+        "similarity": 0.8483594655990601
+    },
+    {
+        "video1": "videos/276_002.mp4",
+        "video2": "videos/3941_003.mp4",
+        "similarity": 0.9143276512622833
+    },
+    {
+        "video1": "videos/1403_019.mp4",
+        "video2": "videos/817_009.mp4",
+        "similarity": 0.8544500470161438
+    },
+    {
+        "video1": "videos/2618_001.mp4",
+        "video2": "videos/2326_006.mp4",
+        "similarity": 0.837406188249588
+    },
+    {
+        "video1": "videos/3236_013.mp4",
+        "video2": "videos/4622_001.mp4",
+        "similarity": 0.7890874147415161
+    },
+    {
+        "video1": "videos/672_008.mp4",
+        "video2": "videos/862_023.mp4",
+        "similarity": 0.8109363913536072
+    },
+    {
+        "video1": "videos/6077_001.mp4",
+        "video2": "videos/930_003.mp4",
+        "similarity": 0.8016132712364197
+    },
+    {
+        "video1": "videos/1353_005.mp4",
+        "video2": "videos/2954_001.mp4",
+        "similarity": 0.8958057463169098
+    },
+    {
+        "video1": "videos/4748_005.mp4",
+        "video2": "videos/2258_003.mp4",
+        "similarity": 0.8723577857017517
+    },
+    {
+        "video1": "videos/4103_004.mp4",
+        "video2": "videos/508_002.mp4",
+        "similarity": 0.7796925902366638
+    },
+    {
+        "video1": "videos/2460_000.mp4",
+        "video2": "videos/64_003.mp4",
+        "similarity": 0.9645130932331085
+    },
+    {
+        "video1": "videos/6191_011.mp4",
+        "video2": "videos/1966_010.mp4",
+        "similarity": 0.846197247505188
+    },
+    {
+        "video1": "videos/2105_004.mp4",
+        "video2": "videos/2105_005.mp4",
+        "similarity": 0.926628828048706
+    },
+    {
+        "video1": "videos/484_000.mp4",
+        "video2": "videos/66_000.mp4",
+        "similarity": 0.9712499976158142
+    },
+    {
+        "video1": "videos/4530_004.mp4",
+        "video2": "videos/45_018.mp4",
+        "similarity": 0.8975676894187927
+    },
+    {
+        "video1": "videos/1203_004.mp4",
+        "video2": "videos/4335_006.mp4",
+        "similarity": 0.8146547079086304
+    },
+    {
+        "video1": "videos/218_001.mp4",
+        "video2": "videos/276_002.mp4",
+        "similarity": 0.9019428491592407
+    },
+    {
+        "video1": "videos/3520_016.mp4",
+        "video2": "videos/4739_000.mp4",
+        "similarity": 0.8448924720287323
+    },
+    {
+        "video1": "videos/4278_005.mp4",
+        "video2": "videos/572_006.mp4",
+        "similarity": 0.9312518835067749
+    },
+    {
+        "video1": "videos/3863_003.mp4",
+        "video2": "videos/883_008.mp4",
+        "similarity": 0.9053821265697479
+    },
+    {
+        "video1": "videos/455_003.mp4",
+        "video2": "videos/64_003.mp4",
+        "similarity": 0.9693730771541595
+    },
+    {
+        "video1": "videos/1005_003.mp4",
+        "video2": "videos/2954_001.mp4",
+        "similarity": 0.9661708772182465
+    },
+    {
+        "video1": "videos/4753_016.mp4",
+        "video2": "videos/4753_033.mp4",
+        "similarity": 0.9237997233867645
+    },
+    {
+        "video1": "videos/1622_020.mp4",
+        "video2": "videos/957_007.mp4",
+        "similarity": 0.916603296995163
+    },
+    {
+        "video1": "videos/1403_019.mp4",
+        "video2": "videos/1622_020.mp4",
+        "similarity": 0.8343101143836975
+    },
+    {
+        "video1": "videos/1645_002.mp4",
+        "video2": "videos/4799_003.mp4",
+        "similarity": 0.7077063620090485
+    },
+    {
+        "video1": "videos/6077_001.mp4",
+        "video2": "videos/2258_003.mp4",
+        "similarity": 0.9480199813842773
+    },
+    {
+        "video1": "videos/2139_005.mp4",
+        "video2": "videos/3994_019.mp4",
+        "similarity": 0.8711323142051697
+    },
+    {
+        "video1": "videos/5429_002.mp4",
+        "video2": "videos/589_009.mp4",
+        "similarity": 0.8775155544281006
+    },
+    {
+        "video1": "videos/5429_002.mp4",
+        "video2": "videos/4681_010.mp4",
+        "similarity": 0.9032322764396667
+    },
+    {
+        "video1": "videos/4753_014.mp4",
+        "video2": "videos/4753_016.mp4",
+        "similarity": 0.9094153046607971
+    },
+    {
+        "video1": "videos/3156_002.mp4",
+        "video2": "videos/859_003.mp4",
+        "similarity": 0.844393253326416
+    },
+    {
+        "video1": "videos/1086_015.mp4",
+        "video2": "videos/2946_002.mp4",
+        "similarity": 0.922130286693573
+    },
+    {
+        "video1": "videos/1754_008.mp4",
+        "video2": "videos/4987_001.mp4",
+        "similarity": 0.94366654753685
+    },
+    {
+        "video1": "videos/2326_002.mp4",
+        "video2": "videos/334_003.mp4",
+        "similarity": 0.7908700704574585
+    },
+    {
+        "video1": "videos/4753_024.mp4",
+        "video2": "videos/589_014.mp4",
+        "similarity": 0.857867032289505
+    },
+    {
+        "video1": "videos/5661_006.mp4",
+        "video2": "videos/5848_006.mp4",
+        "similarity": 0.7889354228973389
+    },
+    {
+        "video1": "videos/3358_013.mp4",
+        "video2": "videos/447_007.mp4",
+        "similarity": 0.8212424516677856
+    },
+    {
+        "video1": "videos/1353_002.mp4",
+        "video2": "videos/2954_001.mp4",
+        "similarity": 0.9627439379692078
+    },
+    {
+        "video1": "videos/3465_005.mp4",
+        "video2": "videos/4689_008.mp4",
+        "similarity": 0.927398294210434
+    },
+    {
+        "video1": "videos/6077_003.mp4",
+        "video2": "videos/6086_009.mp4",
+        "similarity": 0.8177545070648193
+    },
+    {
+        "video1": "videos/1705_001.mp4",
+        "video2": "videos/327_000.mp4",
+        "similarity": 0.9696569442749023
+    },
+    {
+        "video1": "videos/2105_004.mp4",
+        "video2": "videos/4083_006.mp4",
+        "similarity": 0.8071220517158508
+    },
+    {
+        "video1": "videos/2576_003.mp4",
+        "video2": "videos/2711_002.mp4",
+        "similarity": 0.8836547136306763
+    },
+    {
+        "video1": "videos/3189_001.mp4",
+        "video2": "videos/725_001.mp4",
+        "similarity": 0.9460796117782593
+    },
+    {
+        "video1": "videos/2687_001.mp4",
+        "video2": "videos/99_003.mp4",
+        "similarity": 0.92160564661026
+    },
+    {
+        "video1": "videos/2707_075.mp4",
+        "video2": "videos/1429_000.mp4",
+        "similarity": 0.6687982231378555
+    },
+    {
+        "video1": "videos/409_019.mp4",
+        "video2": "videos/4530_006.mp4",
+        "similarity": 0.8554833233356476
+    },
+    {
+        "video1": "videos/5429_013.mp4",
+        "video2": "videos/2195_032.mp4",
+        "similarity": 0.9752338528633118
+    },
+    {
+        "video1": "videos/1071_003.mp4",
+        "video2": "videos/3863_003.mp4",
+        "similarity": 0.9219297766685486
+    },
+    {
+        "video1": "videos/2636_006.mp4",
+        "video2": "videos/641_003.mp4",
+        "similarity": 0.7902488708496094
+    },
+    {
+        "video1": "videos/5602_005.mp4",
+        "video2": "videos/6199_006.mp4",
+        "similarity": 0.8901338279247284
+    },
+    {
+        "video1": "videos/2722_001.mp4",
+        "video2": "videos/2939_000.mp4",
+        "similarity": 0.8830406665802002
+    },
+    {
+        "video1": "videos/3215_011.mp4",
+        "video2": "videos/3465_005.mp4",
+        "similarity": 0.8212886154651642
+    },
+    {
+        "video1": "videos/2395_006.mp4",
+        "video2": "videos/74_007.mp4",
+        "similarity": 0.7532412111759186
+    },
+    {
+        "video1": "videos/2200_000.mp4",
+        "video2": "videos/2978_008.mp4",
+        "similarity": 0.908674418926239
+    },
+    {
+        "video1": "videos/3520_014.mp4",
+        "video2": "videos/3520_016.mp4",
+        "similarity": 0.9779084026813507
+    },
+    {
+        "video1": "videos/1088_007.mp4",
+        "video2": "videos/1754_008.mp4",
+        "similarity": 0.9730444252490997
+    },
+    {
+        "video1": "videos/473_006.mp4",
+        "video2": "videos/4748_005.mp4",
+        "similarity": 0.908563494682312
+    },
+    {
+        "video1": "videos/945_004.mp4",
+        "video2": "videos/2580_009.mp4",
+        "similarity": 0.834301769733429
+    },
+    {
+        "video1": "videos/1438_018.mp4",
+        "video2": "videos/3215_031.mp4",
+        "similarity": 0.7907006442546844
+    },
+    {
+        "video1": "videos/2636_003.mp4",
+        "video2": "videos/351_000.mp4",
+        "similarity": 0.9538984000682831
+    },
+    {
+        "video1": "videos/1289_002.mp4",
+        "video2": "videos/3689_002.mp4",
+        "similarity": 0.8349081575870514
+    },
+    {
+        "video1": "videos/6822_010.mp4",
+        "video2": "videos/2670_008.mp4",
+        "similarity": 0.8862580358982086
+    },
+    {
+        "video1": "videos/1415_002.mp4",
+        "video2": "videos/2276_000.mp4",
+        "similarity": 0.7818692326545715
+    },
+    {
+        "video1": "videos/536_003.mp4",
+        "video2": "videos/817_009.mp4",
+        "similarity": 0.7857292294502258
+    },
+    {
+        "video1": "videos/267_006.mp4",
+        "video2": "videos/788_006.mp4",
+        "similarity": 0.8920264840126038
+    },
+    {
+        "video1": "videos/1498_001.mp4",
+        "video2": "videos/359_001.mp4",
+        "similarity": 0.8217613697052002
+    },
+    {
+        "video1": "videos/354_002.mp4",
+        "video2": "videos/627_002.mp4",
+        "similarity": 0.9072064757347107
+    },
+    {
+        "video1": "videos/4210_011.mp4",
+        "video2": "videos/437_014.mp4",
+        "similarity": 0.8930400907993317
+    },
+    {
+        "video1": "videos/2722_000.mp4",
+        "video2": "videos/2939_000.mp4",
+        "similarity": 0.8524666130542755
+    },
+    {
+        "video1": "videos/3653_002.mp4",
+        "video2": "videos/6155_001.mp4",
+        "similarity": 0.9111496806144714
+    },
+    {
+        "video1": "videos/1868_028.mp4",
+        "video2": "videos/2065_004.mp4",
+        "similarity": 0.8095290660858154
+    },
+    {
+        "video1": "videos/1497_000.mp4",
+        "video2": "videos/850_000.mp4",
+        "similarity": 0.8840770125389099
+    },
+    {
+        "video1": "videos/2085_002.mp4",
+        "video2": "videos/2722_001.mp4",
+        "similarity": 0.9421659708023071
+    },
+    {
+        "video1": "videos/2367_001.mp4",
+        "video2": "videos/854_000.mp4",
+        "similarity": 0.8576416671276093
+    },
+    {
+        "video1": "videos/2449_006.mp4",
+        "video2": "videos/2852_011.mp4",
+        "similarity": 0.6640927791595459
+    },
+    {
+        "video1": "videos/1289_007.mp4",
+        "video2": "videos/3689_007.mp4",
+        "similarity": 0.9561507105827332
+    },
+    {
+        "video1": "videos/6700_000.mp4",
+        "video2": "videos/6700_003.mp4",
+        "similarity": 0.8250464200973511
+    },
+    {
+        "video1": "videos/3357_005.mp4",
+        "video2": "videos/4278_005.mp4",
+        "similarity": 0.9460941851139069
+    },
+    {
+        "video1": "videos/1005_001.mp4",
+        "video2": "videos/1005_003.mp4",
+        "similarity": 0.9438093900680542
+    },
+    {
+        "video1": "videos/24_002.mp4",
+        "video2": "videos/743_006.mp4",
+        "similarity": 0.8912022709846497
+    },
+    {
+        "video1": "videos/2395_006.mp4",
+        "video2": "videos/4050_010.mp4",
+        "similarity": 0.8706552088260651
+    },
+    {
+        "video1": "videos/2828_001.mp4",
+        "video2": "videos/45_007.mp4",
+        "similarity": 0.8289075493812561
+    },
+    {
+        "video1": "videos/2787_001.mp4",
+        "video2": "videos/31_000.mp4",
+        "similarity": 0.7535228729248047
+    },
+    {
+        "video1": "videos/2332_000.mp4",
+        "video2": "videos/406_015.mp4",
+        "similarity": 0.8378685116767883
+    },
+    {
+        "video1": "videos/6079_012.mp4",
+        "video2": "videos/1554_007.mp4",
+        "similarity": 0.9570758044719696
+    },
+    {
+        "video1": "videos/1449_002.mp4",
+        "video2": "videos/3021_000.mp4",
+        "similarity": 0.9304585754871368
+    },
+    {
+        "video1": "videos/2945_000.mp4",
+        "video2": "videos/3214_001.mp4",
+        "similarity": 0.910846620798111
+    },
+    {
+        "video1": "videos/2337_001.mp4",
+        "video2": "videos/3325_000.mp4",
+        "similarity": 0.9159802198410034
+    },
+    {
+        "video1": "videos/1715_013.mp4",
+        "video2": "videos/4485_008.mp4",
+        "similarity": 0.8281098306179047
+    },
+    {
+        "video1": "videos/1303_002.mp4",
+        "video2": "videos/484_000.mp4",
+        "similarity": 0.8418833017349243
+    },
+    {
+        "video1": "videos/1514_008.mp4",
+        "video2": "videos/2660_016.mp4",
+        "similarity": 0.943198561668396
+    },
+    {
+        "video1": "videos/1088_007.mp4",
+        "video2": "videos/4987_001.mp4",
+        "similarity": 0.9487921893596649
+    },
+    {
+        "video1": "videos/3520_014.mp4",
+        "video2": "videos/3520_015.mp4",
+        "similarity": 0.9982256889343262
+    },
+    {
+        "video1": "videos/3460_014.mp4",
+        "video2": "videos/2195_032.mp4",
+        "similarity": 0.9537615180015564
+    },
+    {
+        "video1": "videos/5116_015.mp4",
+        "video2": "videos/1522_029.mp4",
+        "similarity": 0.8581424355506897
+    },
+    {
+        "video1": "videos/4689_008.mp4",
+        "video2": "videos/4710_010.mp4",
+        "similarity": 0.9011320173740387
+    },
+    {
+        "video1": "videos/4210_013.mp4",
+        "video2": "videos/4512_011.mp4",
+        "similarity": 0.8287254571914673
+    },
+    {
+        "video1": "videos/1088_007.mp4",
+        "video2": "videos/6332_004.mp4",
+        "similarity": 0.8954268097877502
+    },
+    {
+        "video1": "videos/1854_006.mp4",
+        "video2": "videos/3773_024.mp4",
+        "similarity": 0.9150298535823822
+    },
+    {
+        "video1": "videos/1897_000.mp4",
+        "video2": "videos/3357_005.mp4",
+        "similarity": 0.9067554175853729
+    },
+    {
+        "video1": "videos/5093_007.mp4",
+        "video2": "videos/6195_006.mp4",
+        "similarity": 0.8561376333236694
+    },
+    {
+        "video1": "videos/4210_006.mp4",
+        "video2": "videos/437_012.mp4",
+        "similarity": 0.8942152261734009
+    },
+    {
+        "video1": "videos/1126_002.mp4",
+        "video2": "videos/4141_002.mp4",
+        "similarity": 0.8794823288917542
+    },
+    {
+        "video1": "videos/1417_001.mp4",
+        "video2": "videos/268_000.mp4",
+        "similarity": 0.8355791568756104
+    },
+    {
+        "video1": "videos/945_004.mp4",
+        "video2": "videos/45_010.mp4",
+        "similarity": 0.7965976595878601
+    },
+    {
+        "video1": "videos/1622_020.mp4",
+        "video2": "videos/420_007.mp4",
+        "similarity": 0.9031945466995239
+    },
+    {
+        "video1": "videos/2852_008.mp4",
+        "video2": "videos/2852_011.mp4",
+        "similarity": 0.9818728864192963
+    },
+    {
+        "video1": "videos/1086_015.mp4",
+        "video2": "videos/2539_000.mp4",
+        "similarity": 0.8735729455947876
+    },
+    {
+        "video1": "videos/3215_007.mp4",
+        "video2": "videos/4977_007.mp4",
+        "similarity": 0.7628182768821716
+    },
+    {
+        "video1": "videos/3815_008.mp4",
+        "video2": "videos/3941_003.mp4",
+        "similarity": 0.8663499057292938
+    },
+    {
+        "video1": "videos/137_003.mp4",
+        "video2": "videos/4710_006.mp4",
+        "similarity": 0.8930147588253021
+    },
+    {
+        "video1": "videos/1029_002.mp4",
+        "video2": "videos/1086_015.mp4",
+        "similarity": 0.8934189677238464
+    },
+    {
+        "video1": "videos/2535_019.mp4",
+        "video2": "videos/3815_008.mp4",
+        "similarity": 0.8858779966831207
+    },
+    {
+        "video1": "videos/455_003.mp4",
+        "video2": "videos/859_003.mp4",
+        "similarity": 0.8892209827899933
+    },
+    {
+        "video1": "videos/3460_014.mp4",
+        "video2": "videos/25_007.mp4",
+        "similarity": 0.9329259991645813
+    },
+    {
+        "video1": "videos/4087_002.mp4",
+        "video2": "videos/817_012.mp4",
+        "similarity": 0.7793622314929962
+    },
+    {
+        "video1": "videos/3858_006.mp4",
+        "video2": "videos/2048_002.mp4",
+        "similarity": 0.8571634888648987
+    },
+    {
+        "video1": "videos/5429_002.mp4",
+        "video2": "videos/743_006.mp4",
+        "similarity": 0.922037661075592
+    },
+    {
+        "video1": "videos/41_009.mp4",
+        "video2": "videos/774_034.mp4",
+        "similarity": 0.8323577642440796
+    },
+    {
+        "video1": "videos/1417_001.mp4",
+        "video2": "videos/2667_001.mp4",
+        "similarity": 0.82668337225914
+    },
+    {
+        "video1": "videos/6086_009.mp4",
+        "video2": "videos/2276_000.mp4",
+        "similarity": 0.8148151338100433
+    },
+    {
+        "video1": "videos/1303_002.mp4",
+        "video2": "videos/2197_002.mp4",
+        "similarity": 0.9870509505271912
+    },
+    {
+        "video1": "videos/218_001.mp4",
+        "video2": "videos/3941_003.mp4",
+        "similarity": 0.9107598662376404
+    },
+    {
+        "video1": "videos/2731_001.mp4",
+        "video2": "videos/3335_001.mp4",
+        "similarity": 0.9913009405136108
+    },
+    {
+        "video1": "videos/2257_007.mp4",
+        "video2": "videos/6191_011.mp4",
+        "similarity": 0.8429862260818481
+    },
+    {
+        "video1": "videos/2852_008.mp4",
+        "video2": "videos/2852_010.mp4",
+        "similarity": 0.9914939403533936
+    },
+    {
+        "video1": "videos/1050_002.mp4",
+        "video2": "videos/359_001.mp4",
+        "similarity": 0.9017374813556671
+    },
+    {
+        "video1": "videos/2258_003.mp4",
+        "video2": "videos/2276_000.mp4",
+        "similarity": 0.8524466156959534
+    },
+    {
+        "video1": "videos/3417_009.mp4",
+        "video2": "videos/780_004.mp4",
+        "similarity": 0.883553147315979
+    },
+    {
+        "video1": "videos/1938_001.mp4",
+        "video2": "videos/2353_003.mp4",
+        "similarity": 0.9170501232147217
+    },
+    {
+        "video1": "videos/4753_033.mp4",
+        "video2": "videos/589_016.mp4",
+        "similarity": 0.8462056517601013
+    },
+    {
+        "video1": "videos/1254_000.mp4",
+        "video2": "videos/4590_001.mp4",
+        "similarity": 0.7474546730518341
+    },
+    {
+        "video1": "videos/5135_002.mp4",
+        "video2": "videos/1606_003.mp4",
+        "similarity": 0.8564983010292053
+    },
+    {
+        "video1": "videos/334_003.mp4",
+        "video2": "videos/3578_000.mp4",
+        "similarity": 0.7007603794336319
+    },
+    {
+        "video1": "videos/3586_007.mp4",
+        "video2": "videos/508_009.mp4",
+        "similarity": 0.7311014533042908
+    },
+    {
+        "video1": "videos/1272_000.mp4",
+        "video2": "videos/837_022.mp4",
+        "similarity": 0.7670172154903412
+    },
+    {
+        "video1": "videos/3170_010.mp4",
+        "video2": "videos/3170_011.mp4",
+        "similarity": 0.698841854929924
+    },
+    {
+        "video1": "videos/1071_005.mp4",
+        "video2": "videos/572_005.mp4",
+        "similarity": 0.9470143914222717
+    },
+    {
+        "video1": "videos/884_008.mp4",
+        "video2": "videos/45_004.mp4",
+        "similarity": 0.8295776844024658
+    },
+    {
+        "video1": "videos/4241_006.mp4",
+        "video2": "videos/2605_005.mp4",
+        "similarity": 0.924404501914978
+    },
+    {
+        "video1": "videos/3972_011.mp4",
+        "video2": "videos/3972_012.mp4",
+        "similarity": 0.8081339299678802
+    },
+    {
+        "video1": "videos/1514_005.mp4",
+        "video2": "videos/650_001.mp4",
+        "similarity": 0.7818795740604401
+    },
+    {
+        "video1": "videos/1084_006.mp4",
+        "video2": "videos/2511_007.mp4",
+        "similarity": 0.7932494282722473
+    },
+    {
+        "video1": "videos/2105_017.mp4",
+        "video2": "videos/4473_005.mp4",
+        "similarity": 0.6912075877189636
+    },
+    {
+        "video1": "videos/41_005.mp4",
+        "video2": "videos/45_011.mp4",
+        "similarity": 0.8569861352443695
+    },
+    {
+        "video1": "videos/1373_002.mp4",
+        "video2": "videos/775_003.mp4",
+        "similarity": 0.9277544319629669
+    },
+    {
+        "video1": "videos/1954_002.mp4",
+        "video2": "videos/6362_006.mp4",
+        "similarity": 0.7877145707607269
+    },
+    {
+        "video1": "videos/6794_006.mp4",
+        "video2": "videos/2567_007.mp4",
+        "similarity": 0.9281984567642212
+    },
+    {
+        "video1": "videos/5567_002.mp4",
+        "video2": "videos/148_006.mp4",
+        "similarity": 0.7364192456007004
+    },
+    {
+        "video1": "videos/4345_008.mp4",
+        "video2": "videos/30_001.mp4",
+        "similarity": 0.8936080634593964
+    },
+    {
+        "video1": "videos/1514_005.mp4",
+        "video2": "videos/536_000.mp4",
+        "similarity": 0.784581869840622
+    },
+    {
+        "video1": "videos/5284_005.mp4",
+        "video2": "videos/119_006.mp4",
+        "similarity": 0.9251962304115295
+    },
+    {
+        "video1": "videos/6794_011.mp4",
+        "video2": "videos/2567_006.mp4",
+        "similarity": 0.9597810208797455
+    },
+    {
+        "video1": "videos/1927_006.mp4",
+        "video2": "videos/2777_003.mp4",
+        "similarity": 0.8006694912910461
+    },
+    {
+        "video1": "videos/2035_000.mp4",
+        "video2": "videos/984_001.mp4",
+        "similarity": 0.8926423788070679
+    },
+    {
+        "video1": "videos/1329_001.mp4",
+        "video2": "videos/3874_002.mp4",
+        "similarity": 0.6997056156396866
+    },
+    {
+        "video1": "videos/6068_002.mp4",
+        "video2": "videos/2670_005.mp4",
+        "similarity": 0.8517991006374359
+    },
+    {
+        "video1": "videos/2395_005.mp4",
+        "video2": "videos/1358_006.mp4",
+        "similarity": 0.9184596538543701
+    },
+    {
+        "video1": "videos/1088_006.mp4",
+        "video2": "videos/1171_009.mp4",
+        "similarity": 0.8888174593448639
+    },
+    {
+        "video1": "videos/4681_010.mp4",
+        "video2": "videos/4835_010.mp4",
+        "similarity": 0.6681679487228394
+    },
+    {
+        "video1": "videos/1073_003.mp4",
+        "video2": "videos/785_005.mp4",
+        "similarity": 0.8857775628566742
+    },
+    {
+        "video1": "videos/3189_001.mp4",
+        "video2": "videos/962_006.mp4",
+        "similarity": 0.7713537216186523
+    },
+    {
+        "video1": "videos/6096_010.mp4",
+        "video2": "videos/4146_004.mp4",
+        "similarity": 0.916323333978653
+    },
+    {
+        "video1": "videos/2257_040.mp4",
+        "video2": "videos/4632_004.mp4",
+        "similarity": 0.7753477096557617
+    },
+    {
+        "video1": "videos/1734_008.mp4",
+        "video2": "videos/4510_038.mp4",
+        "similarity": 0.8407356142997742
+    },
+    {
+        "video1": "videos/41_013.mp4",
+        "video2": "videos/45_002.mp4",
+        "similarity": 0.7405166625976562
+    },
+    {
+        "video1": "videos/4087_003.mp4",
+        "video2": "videos/685_000.mp4",
+        "similarity": 0.7835789918899536
+    },
+    {
+        "video1": "videos/3291_003.mp4",
+        "video2": "videos/3919_004.mp4",
+        "similarity": 0.8356155455112457
+    },
+    {
+        "video1": "videos/2002_007.mp4",
+        "video2": "videos/2283_013.mp4",
+        "similarity": 0.7742461264133453
+    },
+    {
+        "video1": "videos/1229_001.mp4",
+        "video2": "videos/1907_002.mp4",
+        "similarity": 0.8002746403217316
+    },
+    {
+        "video1": "videos/3701_000.mp4",
+        "video2": "videos/3701_009.mp4",
+        "similarity": 0.8014335036277771
+    },
+    {
+        "video1": "videos/1281_017.mp4",
+        "video2": "videos/3471_005.mp4",
+        "similarity": 0.8150855004787445
+    },
+    {
+        "video1": "videos/1537_014.mp4",
+        "video2": "videos/651_033.mp4",
+        "similarity": 0.7843811810016632
+    },
+    {
+        "video1": "videos/3023_004.mp4",
+        "video2": "videos/883_000.mp4",
+        "similarity": 0.9152761101722717
+    },
+    {
+        "video1": "videos/1071_014.mp4",
+        "video2": "videos/3357_005.mp4",
+        "similarity": 0.8580114543437958
+    },
+    {
+        "video1": "videos/6077_001.mp4",
+        "video2": "videos/6086_009.mp4",
+        "similarity": 0.9297636151313782
+    },
+    {
+        "video1": "videos/1438_018.mp4",
+        "video2": "videos/1557_003.mp4",
+        "similarity": 0.8589462041854858
+    },
+    {
+        "video1": "videos/4762_011.mp4",
+        "video2": "videos/957_007.mp4",
+        "similarity": 0.8543763160705566
+    },
+    {
+        "video1": "videos/2410_005.mp4",
+        "video2": "videos/2636_003.mp4",
+        "similarity": 0.8773167133331299
+    },
+    {
+        "video1": "videos/3671_003.mp4",
+        "video2": "videos/1606_003.mp4",
+        "similarity": 0.8913824260234833
+    },
+    {
+        "video1": "videos/2283_013.mp4",
+        "video2": "videos/5429_013.mp4",
+        "similarity": 0.9532666206359863
+    },
+    {
+        "video1": "videos/1159_001.mp4",
+        "video2": "videos/484_000.mp4",
+        "similarity": 0.8385757207870483
+    },
+    {
+        "video1": "videos/1606_003.mp4",
+        "video2": "videos/2605_005.mp4",
+        "similarity": 0.9223653376102448
+    },
+    {
+        "video1": "videos/2670_008.mp4",
+        "video2": "videos/4530_004.mp4",
+        "similarity": 0.9342041313648224
+    },
+    {
+        "video1": "videos/1073_003.mp4",
+        "video2": "videos/3243_009.mp4",
+        "similarity": 0.8904050886631012
+    },
+    {
+        "video1": "videos/2580_009.mp4",
+        "video2": "videos/3640_014.mp4",
+        "similarity": 0.9331522583961487
+    },
+    {
+        "video1": "videos/1645_003.mp4",
+        "video2": "videos/3491_003.mp4",
+        "similarity": 0.8859432637691498
+    },
+    {
+        "video1": "videos/2231_008.mp4",
+        "video2": "videos/437_014.mp4",
+        "similarity": 0.8404635190963745
+    },
+    {
+        "video1": "videos/3520_015.mp4",
+        "video2": "videos/3520_016.mp4",
+        "similarity": 0.9788641631603241
+    },
+    {
+        "video1": "videos/1657_000.mp4",
+        "video2": "videos/2120_000.mp4",
+        "similarity": 0.9826646745204926
+    },
+    {
+        "video1": "videos/1071_003.mp4",
+        "video2": "videos/4087_003.mp4",
+        "similarity": 0.8685338497161865
+    },
+    {
+        "video1": "videos/1202_011.mp4",
+        "video2": "videos/4835_010.mp4",
+        "similarity": 0.8567006289958954
+    },
+    {
+        "video1": "videos/3586_007.mp4",
+        "video2": "videos/420_007.mp4",
+        "similarity": 0.8308382630348206
+    },
+    {
+        "video1": "videos/4241_006.mp4",
+        "video2": "videos/1571_007.mp4",
+        "similarity": 0.8258767426013947
+    },
+    {
+        "video1": "videos/4473_005.mp4",
+        "video2": "videos/3210_009.mp4",
+        "similarity": 0.8629777431488037
+    },
+    {
+        "video1": "videos/3156_002.mp4",
+        "video2": "videos/351_000.mp4",
+        "similarity": 0.9319271743297577
+    },
+    {
+        "video1": "videos/4141_002.mp4",
+        "video2": "videos/851_002.mp4",
+        "similarity": 0.8585961759090424
+    },
+    {
+        "video1": "videos/2460_000.mp4",
+        "video2": "videos/3156_002.mp4",
+        "similarity": 0.8878087997436523
+    },
+    {
+        "video1": "videos/2393_007.mp4",
+        "video2": "videos/885_001.mp4",
+        "similarity": 0.7963483035564423
+    },
+    {
+        "video1": "videos/5284_005.mp4",
+        "video2": "videos/4530_004.mp4",
+        "similarity": 0.9530164003372192
+    },
+    {
+        "video1": "videos/1897_000.mp4",
+        "video2": "videos/2198_011.mp4",
+        "similarity": 0.9141051173210144
+    },
+    {
+        "video1": "videos/24_002.mp4",
+        "video2": "videos/790_007.mp4",
+        "similarity": 0.7774974405765533
+    },
+    {
+        "video1": "videos/4748_005.mp4",
+        "video2": "videos/6077_001.mp4",
+        "similarity": 0.8651695549488068
+    },
+    {
+        "video1": "videos/3874_002.mp4",
+        "video2": "videos/2048_002.mp4",
+        "similarity": 0.8220431208610535
+    },
+    {
+        "video1": "videos/3170_010.mp4",
+        "video2": "videos/790_007.mp4",
+        "similarity": 0.8327664434909821
+    },
+    {
+        "video1": "videos/2667_001.mp4",
+        "video2": "videos/6077_003.mp4",
+        "similarity": 0.7861318588256836
+    },
+    {
+        "video1": "videos/108_005.mp4",
+        "video2": "videos/2511_007.mp4",
+        "similarity": 0.9294709861278534
+    },
+    {
+        "video1": "videos/1303_002.mp4",
+        "video2": "videos/19_001.mp4",
+        "similarity": 0.8584995567798615
+    },
+    {
+        "video1": "videos/2630_003.mp4",
+        "video2": "videos/4530_004.mp4",
+        "similarity": 0.9328944683074951
+    },
+    {
+        "video1": "videos/4473_005.mp4",
+        "video2": "videos/2048_002.mp4",
+        "similarity": 0.883931964635849
+    },
+    {
+        "video1": "videos/176_002.mp4",
+        "video2": "videos/4492_002.mp4",
+        "similarity": 0.8716325461864471
+    },
+    {
+        "video1": "videos/2268_002.mp4",
+        "video2": "videos/885_001.mp4",
+        "similarity": 0.8427012264728546
+    },
+    {
+        "video1": "videos/817_012.mp4",
+        "video2": "videos/536_000.mp4",
+        "similarity": 0.8626538217067719
+    },
+    {
+        "video1": "videos/3215_007.mp4",
+        "video2": "videos/1677_018.mp4",
+        "similarity": 0.8506172597408295
+    },
+    {
+        "video1": "videos/3358_013.mp4",
+        "video2": "videos/3863_003.mp4",
+        "similarity": 0.8396137058734894
+    },
+    {
+        "video1": "videos/1329_001.mp4",
+        "video2": "videos/4347_005.mp4",
+        "similarity": 0.8002367615699768
+    },
+    {
+        "video1": "videos/268_000.mp4",
+        "video2": "videos/6077_003.mp4",
+        "similarity": 0.8031315207481384
+    },
+    {
+        "video1": "videos/1126_002.mp4",
+        "video2": "videos/1417_001.mp4",
+        "similarity": 0.8468063473701477
+    },
+    {
+        "video1": "videos/1645_000.mp4",
+        "video2": "videos/1855_000.mp4",
+        "similarity": 0.9158968031406403
+    },
+    {
+        "video1": "videos/3170_010.mp4",
+        "video2": "videos/3972_012.mp4",
+        "similarity": 0.8378043472766876
+    },
+    {
+        "video1": "videos/1514_005.mp4",
+        "video2": "videos/1514_008.mp4",
+        "similarity": 0.9540907740592957
+    },
+    {
+        "video1": "videos/2852_008.mp4",
+        "video2": "videos/591_001.mp4",
+        "similarity": 0.8309491872787476
+    },
+    {
+        "video1": "videos/5935_001.mp4",
+        "video2": "videos/6152_006.mp4",
+        "similarity": 0.8756094574928284
+    },
+    {
+        "video1": "videos/1088_006.mp4",
+        "video2": "videos/1088_007.mp4",
+        "similarity": 0.9682823121547699
+    },
+    {
+        "video1": "videos/473_006.mp4",
+        "video2": "videos/6077_001.mp4",
+        "similarity": 0.8844121694564819
+    },
+    {
+        "video1": "videos/1281_017.mp4",
+        "video2": "videos/785_005.mp4",
+        "similarity": 0.8301175534725189
+    },
+    {
+        "video1": "videos/2257_040.mp4",
+        "video2": "videos/41_005.mp4",
+        "similarity": 0.8509349226951599
+    },
+    {
+        "video1": "videos/3858_006.mp4",
+        "video2": "videos/2393_007.mp4",
+        "similarity": 0.8549904227256775
+    },
+    {
+        "video1": "videos/2221_012.mp4",
+        "video2": "videos/4689_008.mp4",
+        "similarity": 0.8865808844566345
+    },
+    {
+        "video1": "videos/1449_002.mp4",
+        "video2": "videos/2486_001.mp4",
+        "similarity": 0.9644925594329834
+    },
+    {
+        "video1": "videos/4548_005.mp4",
+        "video2": "videos/1525_004.mp4",
+        "similarity": 0.8719979822635651
+    },
+    {
+        "video1": "videos/1016_004.mp4",
+        "video2": "videos/3170_010.mp4",
+        "similarity": 0.774715006351471
+    },
+    {
+        "video1": "videos/6068_002.mp4",
+        "video2": "videos/4681_010.mp4",
+        "similarity": 0.8997412621974945
+    },
+    {
+        "video1": "videos/121_003.mp4",
+        "video2": "videos/4075_003.mp4",
+        "similarity": 0.841123640537262
+    },
+    {
+        "video1": "videos/3491_003.mp4",
+        "video2": "videos/422_002.mp4",
+        "similarity": 0.8880982398986816
+    },
+    {
+        "video1": "videos/19_001.mp4",
+        "video2": "videos/30_001.mp4",
+        "similarity": 0.8657987117767334
+    },
+    {
+        "video1": "videos/4510_005.mp4",
+        "video2": "videos/4510_038.mp4",
+        "similarity": 0.8012523949146271
+    },
+    {
+        "video1": "videos/5429_002.mp4",
+        "video2": "videos/6068_002.mp4",
+        "similarity": 0.9448859095573425
+    },
+    {
+        "video1": "videos/508_004.mp4",
+        "video2": "videos/4710_006.mp4",
+        "similarity": 0.8467477560043335
+    },
+    {
+        "video1": "videos/4087_002.mp4",
+        "video2": "videos/422_002.mp4",
+        "similarity": 0.8656221032142639
+    },
+    {
+        "video1": "videos/1514_008.mp4",
+        "video2": "videos/1607_009.mp4",
+        "similarity": 0.925984799861908
+    },
+    {
+        "video1": "videos/4652_009.mp4",
+        "video2": "videos/1433_000.mp4",
+        "similarity": 0.8863920569419861
+    },
+    {
+        "video1": "videos/1126_002.mp4",
+        "video2": "videos/4679_004.mp4",
+        "similarity": 0.7870415151119232
+    },
+    {
+        "video1": "videos/1434_008.mp4",
+        "video2": "videos/4689_008.mp4",
+        "similarity": 0.9009650349617004
+    },
+    {
+        "video1": "videos/883_008.mp4",
+        "video2": "videos/2687_001.mp4",
+        "similarity": 0.8769000172615051
+    },
+    {
+        "video1": "videos/334_003.mp4",
+        "video2": "videos/930_003.mp4",
+        "similarity": 0.7905910015106201
+    },
+    {
+        "video1": "videos/2670_008.mp4",
+        "video2": "videos/45_018.mp4",
+        "similarity": 0.9119628369808197
+    },
+    {
+        "video1": "videos/4103_004.mp4",
+        "video2": "videos/1018_004.mp4",
+        "similarity": 0.9010343253612518
+    },
+    {
+        "video1": "videos/2486_001.mp4",
+        "video2": "videos/573_026.mp4",
+        "similarity": 0.928059309720993
+    },
+    {
+        "video1": "videos/148_002.mp4",
+        "video2": "videos/2630_003.mp4",
+        "similarity": 0.8763788044452667
+    },
+    {
+        "video1": "videos/2978_008.mp4",
+        "video2": "videos/725_001.mp4",
+        "similarity": 0.883353590965271
+    },
+    {
+        "video1": "videos/2737_001.mp4",
+        "video2": "videos/2978_008.mp4",
+        "similarity": 0.9319977164268494
+    },
+    {
+        "video1": "videos/3104_007.mp4",
+        "video2": "videos/2567_006.mp4",
+        "similarity": 0.8883249461650848
+    },
+    {
+        "video1": "videos/4530_004.mp4",
+        "video2": "videos/45_007.mp4",
+        "similarity": 0.8765236735343933
+    },
+    {
+        "video1": "videos/2082_008.mp4",
+        "video2": "videos/4172_010.mp4",
+        "similarity": 0.8069100379943848
+    },
+    {
+        "video1": "videos/1627_003.mp4",
+        "video2": "videos/3325_000.mp4",
+        "similarity": 0.8772810399532318
+    },
+    {
+        "video1": "videos/2326_006.mp4",
+        "video2": "videos/930_003.mp4",
+        "similarity": 0.8361424207687378
+    },
+    {
+        "video1": "videos/1920_003.mp4",
+        "video2": "videos/64_003.mp4",
+        "similarity": 0.9611582159996033
+    },
+    {
+        "video1": "videos/1553_010.mp4",
+        "video2": "videos/6096_010.mp4",
+        "similarity": 0.9126476645469666
+    },
+    {
+        "video1": "videos/1029_002.mp4",
+        "video2": "videos/1959_005.mp4",
+        "similarity": 0.8391168117523193
+    },
+    {
+        "video1": "videos/3941_003.mp4",
+        "video2": "videos/420_007.mp4",
+        "similarity": 0.8937087059020996
+    },
+    {
+        "video1": "videos/1954_002.mp4",
+        "video2": "videos/1421_010.mp4",
+        "similarity": 0.8535816669464111
+    },
+    {
+        "video1": "videos/2257_040.mp4",
+        "video2": "videos/862_023.mp4",
+        "similarity": 0.8553930521011353
+    },
+    {
+        "video1": "videos/4632_004.mp4",
+        "video2": "videos/5093_007.mp4",
+        "similarity": 0.900122195482254
+    },
+    {
+        "video1": "videos/4753_016.mp4",
+        "video2": "videos/4753_024.mp4",
+        "similarity": 0.9144877195358276
+    },
+    {
+        "video1": "videos/4776_006.mp4",
+        "video2": "videos/785_005.mp4",
+        "similarity": 0.8724356293678284
+    },
+    {
+        "video1": "videos/2035_000.mp4",
+        "video2": "videos/2085_002.mp4",
+        "similarity": 0.9026575684547424
+    },
+    {
+        "video1": "videos/2200_000.mp4",
+        "video2": "videos/3156_002.mp4",
+        "similarity": 0.8917901515960693
+    },
+    {
+        "video1": "videos/2105_017.mp4",
+        "video2": "videos/4274_002.mp4",
+        "similarity": 0.7803323864936829
+    },
+    {
+        "video1": "videos/1126_002.mp4",
+        "video2": "videos/930_003.mp4",
+        "similarity": 0.8119422495365143
+    },
+    {
+        "video1": "videos/589_009.mp4",
+        "video2": "videos/6068_002.mp4",
+        "similarity": 0.9185401797294617
+    },
+    {
+        "video1": "videos/2737_020.mp4",
+        "video2": "videos/2825_010.mp4",
+        "similarity": 0.8984746038913727
+    },
+    {
+        "video1": "videos/2164_013.mp4",
+        "video2": "videos/6302_016.mp4",
+        "similarity": 0.8706762790679932
+    },
+    {
+        "video1": "videos/4278_005.mp4",
+        "video2": "videos/1433_000.mp4",
+        "similarity": 0.8844662308692932
+    },
+    {
+        "video1": "videos/2002_006.mp4",
+        "video2": "videos/437_014.mp4",
+        "similarity": 0.8880742788314819
+    },
+    {
+        "video1": "videos/2283_020.mp4",
+        "video2": "videos/2195_032.mp4",
+        "similarity": 0.9128739237785339
+    },
+    {
+        "video1": "videos/6362_006.mp4",
+        "video2": "videos/672_008.mp4",
+        "similarity": 0.8142163753509521
+    },
+    {
+        "video1": "videos/2894_010.mp4",
+        "video2": "videos/74_010.mp4",
+        "similarity": 0.8438712060451508
+    },
+    {
+        "video1": "videos/4492_002.mp4",
+        "video2": "videos/679_006.mp4",
+        "similarity": 0.8644969463348389
+    },
+    {
+        "video1": "videos/46_002.mp4",
+        "video2": "videos/627_002.mp4",
+        "similarity": 0.8496560752391815
+    },
+    {
+        "video1": "videos/46_002.mp4",
+        "video2": "videos/650_001.mp4",
+        "similarity": 0.8776086270809174
+    },
+    {
+        "video1": "videos/1677_018.mp4",
+        "video2": "videos/672_008.mp4",
+        "similarity": 0.7771626710891724
+    },
+    {
+        "video1": "videos/2670_008.mp4",
+        "video2": "videos/3417_009.mp4",
+        "similarity": 0.9124462306499481
+    },
+    {
+        "video1": "videos/4517_006.mp4",
+        "video2": "videos/4828_003.mp4",
+        "similarity": 0.7412549555301666
+    },
+    {
+        "video1": "videos/1667_003.mp4",
+        "video2": "videos/3335_001.mp4",
+        "similarity": 0.9036432802677155
+    },
+    {
+        "video1": "videos/1126_002.mp4",
+        "video2": "videos/2667_001.mp4",
+        "similarity": 0.7381269037723541
+    },
+    {
+        "video1": "videos/4050_010.mp4",
+        "video2": "videos/74_010.mp4",
+        "similarity": 0.7776223421096802
+    },
+    {
+        "video1": "videos/2283_013.mp4",
+        "video2": "videos/3460_014.mp4",
+        "similarity": 0.9725615382194519
+    },
+    {
+        "video1": "videos/4510_038.mp4",
+        "video2": "videos/651_033.mp4",
+        "similarity": 0.7999877631664276
+    },
+    {
+        "video1": "videos/4753_033.mp4",
+        "video2": "videos/4753_050.mp4",
+        "similarity": 0.863080769777298
+    },
+    {
+        "video1": "videos/1525_004.mp4",
+        "video2": "videos/2110_001.mp4",
+        "similarity": 0.9516757130622864
+    },
+    {
+        "video1": "videos/1557_003.mp4",
+        "video2": "videos/2257_013.mp4",
+        "similarity": 0.9136995375156403
+    },
+    {
+        "video1": "videos/1005_003.mp4",
+        "video2": "videos/1353_005.mp4",
+        "similarity": 0.899582028388977
+    },
+    {
+        "video1": "videos/5567_002.mp4",
+        "video2": "videos/5567_005.mp4",
+        "similarity": 0.9697332978248596
+    },
+    {
+        "video1": "videos/2539_000.mp4",
+        "video2": "videos/4485_008.mp4",
+        "similarity": 0.8696281611919403
+    },
+    {
+        "video1": "videos/2105_005.mp4",
+        "video2": "videos/2164_004.mp4",
+        "similarity": 0.7701737880706787
+    },
+    {
+        "video1": "videos/4473_005.mp4",
+        "video2": "videos/2268_002.mp4",
+        "similarity": 0.8305589556694031
+    },
+    {
+        "video1": "videos/1281_017.mp4",
+        "video2": "videos/1268_018.mp4",
+        "similarity": 0.8826186656951904
+    },
+    {
+        "video1": "videos/2592_000.mp4",
+        "video2": "videos/2592_011.mp4",
+        "similarity": 0.9162729680538177
+    },
+    {
+        "video1": "videos/1289_007.mp4",
+        "video2": "videos/495_001.mp4",
+        "similarity": 0.8278752565383911
+    },
+    {
+        "video1": "videos/3689_002.mp4",
+        "video2": "videos/3689_007.mp4",
+        "similarity": 0.8455404341220856
+    },
+    {
+        "video1": "videos/945_004.mp4",
+        "video2": "videos/45_002.mp4",
+        "similarity": 0.8771030306816101
+    },
+    {
+        "video1": "videos/1645_002.mp4",
+        "video2": "videos/685_000.mp4",
+        "similarity": 0.9139090776443481
+    },
+    {
+        "video1": "videos/1607_009.mp4",
+        "video2": "videos/74_010.mp4",
+        "similarity": 0.7699516415596008
+    },
+    {
+        "video1": "videos/3491_003.mp4",
+        "video2": "videos/650_001.mp4",
+        "similarity": 0.9110102653503418
+    },
+    {
+        "video1": "videos/4753_016.mp4",
+        "video2": "videos/589_014.mp4",
+        "similarity": 0.8977058529853821
+    },
+    {
+        "video1": "videos/2268_002.mp4",
+        "video2": "videos/2572_000.mp4",
+        "similarity": 0.7872967720031738
+    },
+    {
+        "video1": "videos/2105_017.mp4",
+        "video2": "videos/5951_015.mp4",
+        "similarity": 0.8437788486480713
+    },
+    {
+        "video1": "videos/2722_001.mp4",
+        "video2": "videos/984_001.mp4",
+        "similarity": 0.8708486557006836
+    },
+    {
+        "video1": "videos/1005_001.mp4",
+        "video2": "videos/900_000.mp4",
+        "similarity": 0.9285856783390045
+    },
+    {
+        "video1": "videos/619_000.mp4",
+        "video2": "videos/690_004.mp4",
+        "similarity": 0.9280484318733215
+    },
+    {
+        "video1": "videos/4652_009.mp4",
+        "video2": "videos/962_006.mp4",
+        "similarity": 0.8290117681026459
+    },
+    {
+        "video1": "videos/508_003.mp4",
+        "video2": "videos/508_004.mp4",
+        "similarity": 0.8589403033256531
+    },
+    {
+        "video1": "videos/3520_014.mp4",
+        "video2": "videos/650_001.mp4",
+        "similarity": 0.8708097040653229
+    },
+    {
+        "video1": "videos/1645_000.mp4",
+        "video2": "videos/3357_005.mp4",
+        "similarity": 0.9212139546871185
+    },
+    {
+        "video1": "videos/3919_004.mp4",
+        "video2": "videos/774_034.mp4",
+        "similarity": 0.8898358345031738
+    },
+    {
+        "video1": "videos/2876_000.mp4",
+        "video2": "videos/3214_001.mp4",
+        "similarity": 0.8006162047386169
+    },
+    {
+        "video1": "videos/146_012.mp4",
+        "video2": "videos/3972_011.mp4",
+        "similarity": 0.8627054393291473
+    },
+    {
+        "video1": "videos/4632_004.mp4",
+        "video2": "videos/672_008.mp4",
+        "similarity": 0.830615222454071
+    },
+    {
+        "video1": "videos/6302_016.mp4",
+        "video2": "videos/4146_004.mp4",
+        "similarity": 0.899398148059845
+    }
+]
