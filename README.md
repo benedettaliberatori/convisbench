@@ -1,5 +1,9 @@
 <div align="center">
 
+[![Paper](https://img.shields.io/badge/paper-arxiv.2310.02835-B31B1B.svg)](http://arxiv.org/abs/2509.19245)
+[![Hugging Face Dataset](https://img.shields.io/badge/Dataset-HF-ffcc00?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/bliberatori/ConViS-Bench)
+
+
 # ConViS-Bench: Estimating Video Similarity Through Semantic Concepts
 
 [Benedetta Liberatori](https://benedettaliberatori.github.io/), [Alessandro Conti](https://alessandroconti.me/), [Lorenzo Vaquero](), [Yiming Wang](https://www.yimingwang.it/), [Elisa Ricci](http://elisaricci.eu/), [Paolo Rota](https://paolorota.github.io/)<br>
