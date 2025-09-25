@@ -1,0 +1,3 @@
+[submodule "baselines/t2v_metrics"]
+	path = baselines/t2v_metrics
+	url = https://github.com/chancharikmitra/t2v_metrics.git
