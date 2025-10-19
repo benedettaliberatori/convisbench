@@ -2,6 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/paper-arxiv.2509.19245-B31B1B.svg)](http://arxiv.org/abs/2509.19245)
 [![Hugging Face Dataset](https://img.shields.io/badge/Dataset-HF-ffcc00?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/bliberatori/ConViS-Bench)
+[![Static Badge](https://img.shields.io/badge/website-ConViSBench-blue)](https://benedettaliberatori.github.io/convisbench/)
 
 
 # ConViS-Bench: Estimating Video Similarity Through Semantic Concepts
