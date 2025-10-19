@@ -1,0 +1,138 @@
+<html lang="en-GB">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clarity: A Minimalist Website Template for AI Research</title>
+    <meta name="description" content="We've presented Clarity, a minimalist and elegant website template for AI research.">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <meta name="robots" content="all">
+    <meta content="en_EN" property="og:locale">
+    <meta content="website" property="og:type">
+    <meta content="https://shikun.io/projects/clarity" property="og:url">
+    <meta content="Clarity" property="og:title">
+    <meta content="Website Template for AI Research" property="og:description">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@your_twitter_id">
+    <meta name="twitter:description" content="Clarity: A Minimalist Website Template for AI Research">
+    <meta name="twitter:image:src" content="assets/figures/clarity.png">
+    
+    <link rel="stylesheet" type="text/css" media="all" href="assets/stylesheets/main_free.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="clarity/clarity.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/foundation.min.css">
+    <link href="assets/fontawesome-free-6.6.0-web/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"/>
+    <script defer src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"></script>
+    <script src="assets/scripts/navbar.js"></script>  <!-- Comment to remove table of content. -->
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            "HTML-CSS": {
+              scale: 95,
+              fonts: ["Gyre-Pagella"],
+              imageFont: null,
+              undefinedFamily: "'Arial Unicode MS', cmbright"
+            },
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                processEscapes: true
+              }
+          });
+    </script>
+    <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <!-- Title Page -->
+    <!-- Dark Theme Example: Change the background colour dark and change the following div "blog-title" into "blog-title white". -->
+    <div class="container blog" id="first-content" style="background-color: #E0E4E6;">
+        <!-- If you don't have a project cover: Change "blog-title" into "blog-title no-cover"  -->
+        <div class="blog-title no-cover">
+            <div class="blog-intro">
+                <h1 class="title" style="font-size: 2em; word-spacing: 0.1em;"><span style="background: linear-gradient(45deg, #9b59b6, #e74c3c, #f39c12); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">ConViS-Bench</span>:<br>Estimating Video Similarity Through Semantic Concepts</h1>
+                    <p class="author" >
+                        Benedetta Liberatori <sup>1</sup>, Alessandro Conti <sup>1</sup>, Lorenzo Vaquero <sup>2</sup>, Yiming Wang <sup>2</sup>, Elisa Ricci <sup>1,2</sup>, Paolo Rota <sup>1</sup>
+                    </p>
+                    <p class="author" style="padding-top: 0px;">
+                        <sup>1</sup> University of Trento <br>
+                        <sup>2</sup> Fondazione Bruno Kessler
+                    </p>
+                    <p class="abstract">
+                        What does it mean for two videos to be similar? Videos may appear similar when judged by the actions they depict, yet entirely different if evaluated based on the locations where they were filmed. While humans naturally compare videos by taking different aspects into account, this ability has not been thoroughly studied and presents a challenge for models that often depend on broad global similarity scores. Large Multimodal Models (LMMs) with video understanding capabilities open new opportunities for leveraging natural language in comparative video tasks. We introduce Concept-based Video Similarity estimation (ConViS), a novel task that compares pairs of videos by computing interpretable similarity scores across a predefined set of key semantic concepts. ConViS allows for human-like reasoning about video similarity and enables new applications such as concept-conditioned video retrieval. To support this task, we also introduce ConViS-Bench, a new benchmark comprising carefully annotated video pairs spanning multiple domains. Each pair comes with concept-level similarity scores and textual descriptions of both differences and similarities. Additionally, we benchmark several state-of-the-art models on ConViS, providing insights into their alignment with human judgments. Our results reveal significant performance differences on ConViS, indicating that some concepts present greater challenges for estimating video similarity. We believe that ConViS-Bench will serve as a valuable resource for advancing research in language-driven video understanding.
+                    </p>
+                    <!-- Using FontAwesome Pro -->
+                    <!-- <div class="info">
+                        <div>
+                            <a href="https://arxiv.org" class="button icon" style="background-color: rgba(255, 255, 255, 0.3)"> Paper <i class="far fa-book-open"></i></a> &nbsp;&nbsp; 
+                            <a href="https://github.com" class="button icon" style="background-color: rgba(255, 255, 255, 0.3)">Code <i class="far fa-code"></i></a>  &nbsp;&nbsp; 
+                            <a href="https://www.microsoft.com/en-gb/microsoft-365/powerpoint" class="button icon" style="background-color: rgba(255, 255, 255, 0.3);">Slides <i class="far fa-presentation"></i></a>  &nbsp;&nbsp; 
+                            <a href="https://huggingface.co/spaces" class="button icon" style="background-color: rgba(255, 255, 255, 0.3)">Demo <i class="fa-light fa-face-smiling-hands"></i></a>
+                        </div>
+                    </div> -->
+
+                    <!-- Using FontAwesome Free -->
+                    <div class="info">
+                        <div>
+                            <a href="https://arxiv.org/pdf/2509.19245" class="button icon" style="background-color: rgba(255, 255, 255, 0.2)"> Paper <i class="fa-solid fa-book-open"></i></a> &nbsp;&nbsp; 
+                            <a href="https://github.com/benedettaliberatori/convisbench" class="button icon" style="background-color: rgba(255, 255, 255, 0.2)">Code <i class="fa-solid fa-code"></i></a>  &nbsp;&nbsp; 
+                            <a href="https://huggingface.co/datasets/bliberatori/ConViS-Bench" class="button icon" style="background-color: rgba(255, 255, 255, 0.2)">Dataset <i class="fa-solid fa-database"></i></a> 
+                        </div>
+                    </div>
+                </div>
+               
+                <div class="info" style="padding-top: 0px; padding-bottom: 20px;">
+                    <p>NeurIPS 2025 / Dataset & Benchmarks Track</p>
+                    
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <div class="container blog main first" id="blog-main">
+        <h1 style="text-align: center;">
+            Concept-based Video Similarity estimation 
+        </h1>
+         <img src="clarity/images/teaser_v5.png">
+        <p class="caption">
+            We introduce Concept-based Video Similarity estimation (ConViS), a task that quantifies video similarity along specific semantic concepts (e.g., location), and ConViS-Bench , a dataset of video pairs annotated with concept-level similarity scores (1-to-5) and free-form descriptions of similarities and differences. This bridges the gap between prior work focused solely on global similarity  or differences in natural language
+        </p>
+        <p class="text">
+        
+        </p>
+    </div>
+
+
+    <div class="container blog main">
+        <h1>Citation</h1>
+        <p class="text">
+            If you find our work useful in your research, please consider citing:
+        </p>
+<pre><code class="plaintext">@article{liberatori2025convis,
+  title={ConViS-Bench: Estimating Video Similarity Through Semantic Concepts},
+  author={Liberatori, Benedetta and Conti, Alessandro and Vaquero, Lorenzo and Wang, Yiming and Ricci, Elisa and Rota, Paolo},
+  journal={arXiv preprint arXiv:2509.19245},
+  year={2025}
+}</code></pre>
+    </div>
+
+    <!-- Footer Page -->
+    <footer>
+        <div class="container">
+            <p>
+                This website is built on the <a href="https://shikun.io/projects/clarity">Clarity Template</a>, designed by <a href="https://shikun.io/">Shikun Liu</a>.
+            </p>
+        </div>    
+    </footer>
+    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="clarity/clarity.js"></script>    
+    <script src="assets/scripts/main.js"></script>    
+    </html>
+</body>
