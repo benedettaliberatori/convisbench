@@ -3,20 +3,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ConViS-Bench: Estimating Video Similarity Through Semantic Concepts</title>
-    <meta name="description" content="ConViS-Bench: Estimating Video Similarity Through Semantic Concepts. Accepted to NeurIPS 2025.">
+    <title>Clarity: A Minimalist Website Template for AI Research</title>
+    <meta name="description" content="We've presented Clarity, a minimalist and elegant website template for AI research.">
     <meta name="referrer" content="no-referrer-when-downgrade">
     <meta name="robots" content="all">
     <meta content="en_EN" property="og:locale">
     <meta content="website" property="og:type">
     <meta content="https://shikun.io/projects/clarity" property="og:url">
     <meta content="Clarity" property="og:title">
-    <meta content="ConViS-Bench: Estimating Video Similarity Through Semantic Concepts." property="og:description">
+    <meta content="Website Template for AI Research" property="og:description">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@your_twitter_id">
-    <meta name="twitter:description" content="ConViS-Bench: Estimating Video Similarity Through Semantic Concepts.">
-    <meta name="twitter:image:src" content="clarity/images/teaser_v5.png">
+    <meta name="twitter:description" content="Clarity: A Minimalist Website Template for AI Research">
+    <meta name="twitter:image:src" content="assets/figures/clarity.png">
     
     <link rel="stylesheet" type="text/css" media="all" href="assets/stylesheets/main_free.css" />
     <link rel="stylesheet" type="text/css" media="all" href="clarity/clarity.css" />
@@ -43,6 +43,38 @@
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <style>
+        /* Slideshow & video pair styles */
+        .slideshow { --slide-max-width: 1100px; position: relative; display: flex; flex-direction: column; gap: 1rem; align-items: center; }
+        .slide { display: none; width: 100%; }
+        .slide.active { display: block; }
+        .slide-inner { max-width: var(--slide-max-width); margin: 0 auto; }
+        .video-pair { display: flex; gap: 1rem; justify-content: center; flex-wrap: nowrap; margin-bottom: 1rem; }
+        .video-pair video { width: 49%; max-height: 480px; }
+        .slideshow .nav-arrow { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 0.5rem 0.75rem; cursor: pointer; border-radius: 4px; z-index: 10; }
+        .slideshow .nav-arrow.left { left: calc(50% - (var(--slide-max-width) / 2) - 1.25rem); }
+        .slideshow .nav-arrow.right { right: calc(50% - (var(--slide-max-width) / 2) - 1.25rem); }
+        .slideshow .dots { display: flex; gap: 0.5rem; list-style: none; padding: 0; margin: 0; justify-content: center; }
+        .slideshow .dots .dot { width: 10px; height: 10px; border-radius: 50%; background: #cbd5e1; cursor: pointer; }
+        .slideshow .dots .dot.active { background: #304d6d; }
+        @media (max-width: 600px) {
+            .video-pair { flex-wrap: wrap; }
+            .video-pair video { width: 100%; }
+            .slideshow .nav-arrow { display: none; }
+        }
+        /* Labels under each video pair */
+        .pair-labels { display: flex; gap: 0.5rem; justify-content: center; margin-top: 0.5rem; flex-wrap: wrap; }
+        .pair-labels .pill { background: #304d6d; color: #e2e8f0; padding: 0.5rem 0.85rem; border-radius: 8px; min-width: 72px; text-align: center; font-weight: 600; border: 2px solid #e2e8f0; box-shadow: 0 2px 6px rgba(16,24,40,0.06); font-size: 0.9rem; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace; }
+        /* Comma-separated tag groups (green and red) */
+        .pair-tags-inline { margin-top: 0.5rem; text-align: center; display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+        .tags-text-green { color: #16a34a; background: rgba(34,197,94,0.06); display: inline-block; padding: 0.25rem 0.6rem; border-radius: 6px; font-size: inherit; font-weight: 500; font-family: inherit; }
+        .tags-text-red { color: #b91c1c; background: rgba(239,68,68,0.06); display: inline-block; padding: 0.25rem 0.6rem; border-radius: 6px; font-size: inherit; font-weight: 500; font-family: inherit; }
+        /* Tag line below labels (green text) */
+        .pair-tags { margin-top: 0.5rem; text-align: center; }
+        .pair-tags .tags-text { color: #16a34a; background: rgba(34,197,94,0.06); display: inline-block; padding: 0.25rem 0.6rem; border-radius: 6px; font-size: 0.9rem; font-weight: 500; font-family: inherit; }
+        .inline-green { color: #16a34a; font-weight: 600; }
+        .inline-red { color: #b91c1c; font-weight: 600; }
+        </style>
 </head>
 
 <body>
@@ -63,15 +95,7 @@
                     <p class="abstract">
                         What does it mean for two videos to be similar? Videos may appear similar when judged by the actions they depict, yet entirely different if evaluated based on the locations where they were filmed. While humans naturally compare videos by taking different aspects into account, this ability has not been thoroughly studied and presents a challenge for models that often depend on broad global similarity scores. Large Multimodal Models (LMMs) with video understanding capabilities open new opportunities for leveraging natural language in comparative video tasks. We introduce Concept-based Video Similarity estimation (ConViS), a novel task that compares pairs of videos by computing interpretable similarity scores across a predefined set of key semantic concepts. ConViS allows for human-like reasoning about video similarity and enables new applications such as concept-conditioned video retrieval. To support this task, we also introduce ConViS-Bench, a new benchmark comprising carefully annotated video pairs spanning multiple domains. Each pair comes with concept-level similarity scores and textual descriptions of both differences and similarities. Additionally, we benchmark several state-of-the-art models on ConViS, providing insights into their alignment with human judgments. Our results reveal significant performance differences on ConViS, indicating that some concepts present greater challenges for estimating video similarity. We believe that ConViS-Bench will serve as a valuable resource for advancing research in language-driven video understanding.
                     </p>
-                    <!-- Using FontAwesome Pro -->
-                    <!-- <div class="info">
-                        <div>
-                            <a href="https://arxiv.org" class="button icon" style="background-color: rgba(255, 255, 255, 0.3)"> Paper <i class="far fa-book-open"></i></a> &nbsp;&nbsp; 
-                            <a href="https://github.com" class="button icon" style="background-color: rgba(255, 255, 255, 0.3)">Code <i class="far fa-code"></i></a>  &nbsp;&nbsp; 
-                            <a href="https://www.microsoft.com/en-gb/microsoft-365/powerpoint" class="button icon" style="background-color: rgba(255, 255, 255, 0.3);">Slides <i class="far fa-presentation"></i></a>  &nbsp;&nbsp; 
-                            <a href="https://huggingface.co/spaces" class="button icon" style="background-color: rgba(255, 255, 255, 0.3)">Demo <i class="fa-light fa-face-smiling-hands"></i></a>
-                        </div>
-                    </div> -->
+    
 
                     <!-- Using FontAwesome Free -->
                     <div class="info">
@@ -106,13 +130,136 @@
         </p>
     </div>
 
+    <div class="container blog main">
+        <h1 style="text-align: center;">Video Pair Samples</h1>
+
+        <p class="text">  
+        ConViS-Bench contains 610 video pairs, each annotated with human-judged similarity scores across five general-purpose concepts. In addition to quantitative similarity scores, each pair is accompanied by free-form descriptions highlighting <span class="inline-red">shared</span> and <span class="inline-green">differing</span> elements, offering qualitative insight into human reasoning. It covers the broadest range of domains to date, i.e., 16 in total and features longer videos on average.
+        </p>
+    </div>
+
+    <div class="container blog main gray" style="text-align:center;">
+        <div class="slideshow" id="slideshow" aria-roledescription="carousel">
+            <button class="nav-arrow left" id="prevBtn" aria-label="Previous">‹</button>
+            <button class="nav-arrow right" id="nextBtn" aria-label="Next">›</button>
+
+            <div class="slide active">
+                <div class="slide-inner">
+                    <div class="video-pair">
+                        <video loop playsinline muted autoplay src="https://huggingface.co/datasets/bliberatori/ConViS-Bench/resolve/main/videos/1433_000.mp4"></video>
+                        <video loop playsinline muted autoplay src="https://huggingface.co/datasets/bliberatori/ConViS-Bench/resolve/main/videos/2410_005.mp4"></video>
+                    </div>
+                    <div class="pair-labels" role="group" aria-label="Slide labels">
+                        <div class="pill">Main Action: 4.0</div>
+                        <div class="pill">Main Subjects: 3.1</div>
+                        <div class="pill">Main Objects: 2.8</div>
+                        <div class="pill">Location: 2.4</div>
+                        <div class="pill">Order of Actions: 3.9</div>
+                    <div class="pair-tags-inline" role="group" aria-label="Tag groups">
+                        <span class="tags-text-green">workout, footwork, training, exercise, knee tucks, main action, green floor, same workout, syntetic grass floor</span>
+                        <span class="tags-text-red">place, gender, fitball, setting, location, gym tool, equipment, equipments, prone tucks, floor tucks, gliding discs, gender of trainers</span>
+                    </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="slide">
+                <div class="slide-inner">
+                    <div class="video-pair">
+                        <video loop playsinline muted autoplay src="https://huggingface.co/datasets/bliberatori/ConViS-Bench/resolve/main/videos/1705_001.mp4"></video>
+                        <video loop playsinline muted autoplay src="https://huggingface.co/datasets/bliberatori/ConViS-Bench/resolve/main/videos/327_000.mp4"></video>
+                    </div>
+                    <div class="pair-labels" role="group" aria-label="Slide labels">
+                        <div class="pill">Main Action: 4.3</div>
+                        <div class="pill">Main Subjects: 2.7</div>
+                        <div class="pill">Main Objects: 4.0</div>
+                        <div class="pill">Location: 4.5</div>
+                        <div class="pill">Order of Actions: 4.2</div>
+                    <div class="pair-tags-inline" role="group" aria-label="Tag groups">
+                        <span class="tags-text-green">track, sport, running, athletics, relay race, before race, running track, track and field, introduce runners, presentation of athlethes</span>
+                        <span class="tags-text-red">men, race, women, gender, camera close-up, number of meters, genre of subjects, audience numerosity, sex of participates</span>
+                    </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="slide">
+                <div class="slide-inner">
+                    <div class="video-pair">
+                        <video loop playsinline muted autoplay src="https://huggingface.co/datasets/bliberatori/ConViS-Bench/resolve/main/videos/1289_002.mp4"></video>
+                        <video loop playsinline muted autoplay src="https://huggingface.co/datasets/bliberatori/ConViS-Bench/resolve/main/videos/3689_002.mp4"></video>
+                    </div>
+                    <div class="pair-labels" role="group" aria-label="Slide labels">
+                        <div class="pill">Main Action: 4.0</div>
+                        <div class="pill">Main Subjects: 4.1</div>
+                        <div class="pill">Main Objects: 3.6</div>
+                        <div class="pill">Location: 2.1</div>
+                        <div class="pill">Order of Actions: 3.6</div>
+                    <div class="pair-tags-inline" role="group" aria-label="Tag groups">
+                        <span class="tags-text-green">wool, sewing, crochet, needles, knitting, stitching, thread work, crochet hooks, point of view</span>
+                        <span class="tags-text-red">pink, wool, blue, color, speed, indoor, colors, outdoor, location, wool color, hand speed, ball of yarn, red and green, colour of thread</span>
+                    </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="slide">
+                <div class="slide-inner">
+                    <div class="video-pair">
+                        <video loop playsinline muted autoplay src="https://huggingface.co/datasets/bliberatori/ConViS-Bench/resolve/main/videos/1088_006.mp4"></video>
+                        <video loop playsinline muted autoplay src="https://huggingface.co/datasets/bliberatori/ConViS-Bench/resolve/main/videos/1171_009.mp4"></video>
+                    </div>
+                    <div class="pair-labels" role="group" aria-label="Slide labels">
+                        <div class="pill">Main Action: 4.5</div>
+                        <div class="pill">Main Subjects: 1.5</div>
+                        <div class="pill">Main Objects: 4.0 </div>
+                        <div class="pill">Location: 4.0</div>
+                        <div class="pill">Order of Actions: 2.5</div>
+                    <div class="pair-tags-inline" role="group" aria-label="Tag groups">
+                        <span class="tags-text-green">action, training</span>
+                        <span class="tags-text-red">speed, action object, first one is performed on a wig, second is a complete hair cut (with coloring)</span>
+                    </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="slide">
+                <div class="slide-inner">
+                    <div class="video-pair">
+                        <video loop playsinline muted autoplay src="https://huggingface.co/datasets/bliberatori/ConViS-Bench/resolve/main/videos/1202_011.mp4"></video>
+                        <video loop playsinline muted autoplay src="https://huggingface.co/datasets/bliberatori/ConViS-Bench/resolve/main/videos/4835_010.mp4"></video>
+                    </div>
+                    <div class="pair-labels" role="group" aria-label="Slide labels">
+                        <div class="pill">Main Action: 2.0</div>
+                        <div class="pill">Main Subjects: 5.0</div>
+                        <div class="pill">Main Objects: 1.5</div>
+                        <div class="pill">Location: 5.0</div>
+                        <div class="pill">Order of Actions: 1.5</div>
+                    <div class="pair-tags-inline" role="group" aria-label="Tag groups">
+                        <span class="tags-text-green">chief, cooking, location, same person, cutting board, outdoor kitchen</span>
+                        <span class="tags-text-red">corn, food, order, manner, skillet, ingredients</span>
+                    </div>
+                    </div>
+                </div>
+            </div>
+
+            <ul class="dots" id="slideshowDots" aria-hidden="false">
+                <li class="dot active" data-index="0" aria-label="Slide 1"></li>
+                <li class="dot" data-index="1" aria-label="Slide 2"></li>
+                <li class="dot" data-index="2" aria-label="Slide 3"></li>
+                <li class="dot" data-index="3" aria-label="Slide 4"></li>
+                <li class="dot" data-index="4" aria-label="Slide 5"></li>
+            </ul>
+        </div>
+    </div>
 
     <div class="container blog main">
         <h1>Citation</h1>
         <p class="text">
             If you find our work useful in your research, please consider citing:
         </p>
-<pre><code class="plaintext">@inproceedings{liberatori2025convisbench,
+<pre><code class="plaintext">
+@inproceedings{liberatori2025convisbench,
 title={ConViS-Bench: Estimating Video Similarity  Through Semantic Concepts},
 author={Benedetta Liberatori and Alessandro Conti and Lorenzo Vaquero and Yiming Wang and Elisa Ricci and Paolo Rota},
 booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
@@ -133,7 +280,61 @@ url={https://openreview.net/forum?id=NoIWLerNKH}
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="clarity/clarity.js"></script>    
-    <script src="assets/scripts/main.js"></script>    
-    </html>
+    <script src="clarity/clarity.js"></script>
+    <script src="assets/scripts/main.js"></script>
+    <script>
+    (function(){
+        var slideshow = document.getElementById('slideshow');
+        var slides = Array.from(document.querySelectorAll('#slideshow .slide'));
+        var dots = Array.from(document.querySelectorAll('#slideshowDots .dot'));
+        var prevBtn = document.getElementById('prevBtn');
+        var nextBtn = document.getElementById('nextBtn');
+        if(!slideshow || !slides.length) return;
+
+        var current = 0;
+        var autoplayInterval = 5000; // ms
+        var timer = null;
+
+        function showSlide(i){
+            i = (i + slides.length) % slides.length;
+            slides.forEach(function(s, idx){
+                var active = (idx === i);
+                s.classList.toggle('active', active);
+                // pause videos on hidden slides
+                var vids = s.querySelectorAll('video');
+                vids.forEach(function(v){ if(active){ v.play().catch(()=>{}); } else { v.pause(); v.currentTime = 0; } });
+            });
+            dots.forEach(function(d, idx){ d.classList.toggle('active', idx===i); });
+            current = i;
+        }
+
+        function next(){ showSlide(current+1); }
+        function prev(){ showSlide(current-1); }
+
+        // dot handlers
+        dots.forEach(function(d){ d.addEventListener('click', function(){ showSlide(Number(d.dataset.index)); }); });
+        // arrow handlers
+        if(prevBtn) prevBtn.addEventListener('click', function(){ prev(); restartTimer(); });
+        if(nextBtn) nextBtn.addEventListener('click', function(){ next(); restartTimer(); });
+
+        // keyboard
+        document.addEventListener('keydown', function(e){ if(e.key==='ArrowLeft') { prev(); restartTimer(); } if(e.key==='ArrowRight') { next(); restartTimer(); } });
+
+        function startTimer(){ stopTimer(); timer = setInterval(function(){ next(); }, autoplayInterval); }
+        function stopTimer(){ if(timer){ clearInterval(timer); timer = null; } }
+        function restartTimer(){ stopTimer(); startTimer(); }
+
+        // pause on hover/focus
+        slideshow.addEventListener('mouseenter', stopTimer);
+        slideshow.addEventListener('mouseleave', startTimer);
+        slideshow.addEventListener('focusin', stopTimer);
+        slideshow.addEventListener('focusout', startTimer);
+
+        // initialize
+        showSlide(0);
+        startTimer();
+    })();
+    </script>
+
 </body>
+</html>
